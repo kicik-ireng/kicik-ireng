@@ -1,4 +1,4 @@
-![Wissa Gamma Banner](./assets/195588736.png)
+![Wissa Gamma Banner](./assets/195588736.png)![VUTEQ](./assets/195588736.png)
 # 👋 Hi, I'm **Wissa Gamma E,L**
 
 💻 **Software Developer** | **IT Department, PT. Vuteq Indonesia**  
