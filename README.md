@@ -16,7 +16,7 @@
 
 ## 🔧 Skills & Tools
 
-![Oracle](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000
+![Oracle](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![Oracle](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=fff)
@@ -40,7 +40,7 @@
 ![Oracle](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=fff)
-![Oracle](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000
+![Oracle](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
 ![Oracle](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=fff)
@@ -75,19 +75,19 @@
 ![Oracle](https://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Foundation-008CBA?style=flat&logo=foundation&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Semantic_UI-35BDB2?style=flat&logo=semantic-ui&logoColor=fff)
-![Oracle](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=000
+![Oracle](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=000)
 ![Oracle](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Rollup-EC4A3F?style=flat&logo=rollup.js&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Parcel-0C66E7?style=flat&logo=parcel&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Snowpack-2E5E82?style=flat&logo=snowpack&logoColor=fff)
-![Oracle](https://img.shields.io/badge/-ESBuild-FFCF00?style=flat&logo=esbuild&logoColor=000
-![Oracle](https://img.shields.io/badge/-SWC-FFFFFF?style=flat&logo=swc&logoColor=000
+![Oracle](https://img.shields.io/badge/-ESBuild-FFCF00?style=flat&logo=esbuild&logoColor=000)
+![Oracle](https://img.shields.io/badge/-SWC-FFFFFF?style=flat&logo=swc&logoColor=000)
 ![Oracle](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Koa-33333D?style=flat&logo=koa&logoColor=fff)
-![Oracle](https://img.shields.io/badge/-Hapi-E6E6EA?style=flat&logo=hapi&logoColor=000
+![Oracle](https://img.shields.io/badge/-Hapi-E6E6EA?style=flat&logo=hapi&logoColor=000)
 ![Oracle](https://img.shields.io/badge/-AdonisJS-5A45FF?style=flat&logo=adonisjs&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Sails.js-7BB2D9?style=flat&logo=sails.js&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=fff)
@@ -127,11 +127,11 @@
 ![Oracle](https://img.shields.io/badge/-iOS-000000?style=flat&logo=ios&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-SwiftUI-000000?style=flat&logo=swift&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-UIKit-000000?style=flat&logo=uikit&logoColor=fff)
-![Oracle](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=000
+![Oracle](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=000)
 ![Oracle](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Xamarin-3498DB?style=flat&logo=xamarin&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=fff)
-![Oracle](https://img.shields.io/badge/-Cordova-E8E8E8?style=flat&logo=apache-cordova&logoColor=000
+![Oracle](https://img.shields.io/badge/-Cordova-E8E8E8?style=flat&logo=apache-cordova&logoColor=000)
 ![Oracle](https://img.shields.io/badge/-Capacitor-119EFF?style=flat&logo=capacitor&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-NativeScript-3655FF?style=flat&logo=nativescript&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
@@ -200,7 +200,7 @@
 ![Oracle](https://img.shields.io/badge/-Rancher-0075A8?style=flat&logo=rancher&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=fff)
-![Oracle](https://img.shields.io/badge/-Puppet-FFAE1A?style=flat&logo=puppet&logoColor=000
+![Oracle](https://img.shields.io/badge/-Puppet-FFAE1A?style=flat&logo=puppet&logoColor=000)
 ![Oracle](https://img.shields.io/badge/-Chef-F09820?style=flat&logo=chef&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Pulumi-8A3391?style=flat&logo=pulumi&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-CloudFormation-232F3E?style=flat&logo=aws-cloudformation&logoColor=fff)
@@ -300,26 +300,26 @@
 ![Oracle](https://img.shields.io/badge/-Groovy-4298B8?style=flat&logo=apache-groovy&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=fff)
-![Oracle](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=000
+![Oracle](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=000)
 ![Oracle](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-JSDoc-000000?style=flat&logo=jsdoc&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-TypeDoc-000000?style=flat&logo=typedoc&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=fff)
-![Oracle](https://img.shields.io/badge/-Sketch-F7B500?style=flat&logo=sketch&logoColor=000
+![Oracle](https://img.shields.io/badge/-Sketch-F7B500?style=flat&logo=sketch&logoColor=000)
 ![Oracle](https://img.shields.io/badge/-InVision-FF3366?style=flat&logo=invision&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Zeplin-000000?style=flat&logo=zeplin&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Web3.js-F16822?style=flat&logo=web3.js&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Ethers.js-000000?style=flat&logo=ethers.js&logoColor=fff)
-![Oracle](https://img.shields.io/badge/-Hardhat-FFF100?style=flat&logo=hardhat&logoColor=000
+![Oracle](https://img.shields.io/badge/-Hardhat-FFF100?style=flat&logo=hardhat&logoColor=000)
 ![Oracle](https://img.shields.io/badge/-Truffle-000000?style=flat&logo=truffle&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-IPFS-65C2CB?style=flat&logo=ipfs&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-WebRTC-333333?style=flat&logo=webrtc&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=opengl&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Vulkan-AC162C?style=flat&logo=vulkan&logoColor=fff)
-![Oracle](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000
+![Oracle](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)
 ![Oracle](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-CentOS-262577?style=flat&logo=centos&logoColor=fff)
@@ -328,10 +328,6 @@
 ![Oracle](https://img.shields.io/badge/-macOS-000000?style=flat&logo=macos&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=fff)
 ![Oracle](https://img.shields.io/badge/-iOS-000000?style=flat&logo=ios&logoColor=fff)
-
-
-
-
 
 
 
