@@ -1,9 +1,10 @@
-<table>
+<table border="0">
 <tr>
-  <td><img src="./assets/BG.png" alt="Wissa Gamma Banner" width="200"/></td>
-  <td><img src="./assets/BB.png" alt="VUTEQ" width="400"/></td>
+  <td border="0"><img src="./assets/BG.png" alt="Wissa Gamma Banner" width="200"/></td>
+  <td border="0"><img src="./assets/BB.png" alt="VUTEQ" width="400"/></td>
 </tr>
 </table>
+
 
 
 # 👋 Hi, I'm **Wissa Gamma E,L**
