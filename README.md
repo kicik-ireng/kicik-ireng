@@ -1,5 +1,10 @@
-<img src="./assets/BG.png" alt="Wissa Gamma Banner" width="400"/>
-<img src="./assets/BB.png" alt="VUTEQ" width="400"/>
+<table>
+<tr>
+  <td><img src="./assets/BG.png" alt="Wissa Gamma Banner" width="200"/></td>
+  <td><img src="./assets/BB.png" alt="VUTEQ" width="400"/></td>
+</tr>
+</table>
+
 
 # 👋 Hi, I'm **Wissa Gamma E,L**
 
