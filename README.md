@@ -1,4 +1,4 @@
-<img src="./assets/BG.png" alt="Wissa Gamma Banner" width="800"/>
+<img src="./assets/BG.png" alt="Wissa Gamma Banner" width="400"/>
 <img src="./assets/BB.png" alt="VUTEQ" width="400"/>
 
 # 👋 Hi, I'm **Wissa Gamma E,L**
