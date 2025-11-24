@@ -1,4 +1,4 @@
-![Wissa Gamma Banner](https://ibb.co.com/gZPdnH5j)
+![Wissa Gamma Banner](https://drive.google.com/file/d/1EIT6Jd6mNd1DZCbQSv8Bp6FKGX-HXNjg/view?usp=drive_link)
 # 👋 Hi, I'm **Wissa Gamma E,L**
 
 💻 **Software Developer** | **IT Department, PT. Vuteq Indonesia**  
