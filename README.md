@@ -102,7 +102,7 @@ I specialize in developing **industrial-grade software systems** with a focus on
 - 🏭 **Specialization**: Factory dashboards, QC systems, production tracking
 - 💻 **Tech Stack**: Next.js • NestJS • Flutter • TypeScript • PostgreSQL
 - 🎯 **Focus**: High-performance backend architecture + intuitive frontend design
-- 📧 **Contact**: yourmail@example.com
+- 📧 **Contact**: wissagamma@vuteq.co.id
 
 </div>
 
@@ -140,12 +140,12 @@ I specialize in developing **industrial-grade software systems** with a focus on
 
 <!-- GitHub Stats -->
 <div style="flex: 1; min-width: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00FFF9&icon_color=FF00FF" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kicik-ireng&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00FFF9&icon_color=FF00FF" alt="GitHub Stats"/>
 </div>
 
 <!-- Streak Stats -->
 <div style="flex: 1; min-width: 300px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=00000000&ring=00FFF9&fire=FF00FF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kicik-ireng&theme=radical&hide_border=true&background=00000000&ring=00FFF9&fire=FF00FF" alt="GitHub Streak"/>
 </div>
 
 </div>
@@ -157,7 +157,7 @@ I specialize in developing **industrial-grade software systems** with a focus on
 ## 💻 LANGUAGE USAGE
 
 <div align="center" style="position: relative; z-index: 2;">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00FFF9" alt="Top Languages"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kicik-ireng&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00FFF9" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -165,31 +165,7 @@ I specialize in developing **industrial-grade software systems** with a focus on
 ## 🏆 GITHUB ACHIEVEMENTS
 
 <div align="center" style="position: relative; z-index: 2;">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&margin-w=12&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
-## 🌐 PROFESSIONAL NETWORK
-
-<div align="center" style="position: relative; z-index: 2;">
-
-<a href="YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A23&color=00E5FF" alt="LinkedIn"/>
-</a>
-
-<a href="YOUR_INSTAGRAM">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0A23&color=FF00FF" alt="Instagram"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A23&color=00FFA9" alt="Portfolio"/>
-</a>
-
-<a href="mailto:yourmail@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A23&color=FFFFFF" alt="Email"/>
-</a>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=kicik-ireng&theme=matrix&no-frame=true&margin-w=12&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 <br/>
