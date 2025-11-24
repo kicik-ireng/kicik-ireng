@@ -1,52 +1,76 @@
-<h1 align="center">Hi 👋, I'm Wissa Gamma E,L</h1>
-<h3 align="center">Industrial Software Developer at PT. Vuteq Indonesia</h3>
-
----
-
-### 🚀 About Me
-- 🌱 Currently learning **Next.js, NestJS, Flutter, DevOps**
-- 💼 Working on **industrial dashboards, QC systems, factory management apps**
-- 🔥 Focused on building **clean UI/UX, high-performance backend, and scalable systems**
-- 🧪 Experienced with **real-time monitoring, production tracking, and enterprise systems**
-- 📫 Reach me at: **yourmail@example.com**
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend:**  
-Next.js • React • TailwindCSS • Ant Design • Flutter
-
-**Backend:**  
-NestJS • Node.js • Prisma • PostgreSQL • MySQL
-
-**Tools & DevOps:**  
-Docker • Git • GitHub Actions • Linux • Nginx • PM2
-
----
-
-### 📈 GitHub Stats
+<!-- Banner -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=6AA6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Wissa+Gamma+E,L;Industrial+Software+Developer;PT.+Vuteq+Indonesia;Building+Modern+Factory+Systems+🚀" />
 </p>
 
 ---
 
-### 🏆 Top Languages
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+## 💫 About Me
+✨ Industrial Software Developer specializing in factory systems, real-time dashboards, QC automation, and enterprise web apps.
+
+- 🔭 Currently working at **PT. Vuteq Indonesia**  
+- 🚀 Focus: **Next.js • NestJS • Flutter • DevOps**  
+- 🧩 Love creating: **clean UI/UX**, scalable backend, industrial dashboards  
+- 🧠 Passionate about **automation, system optimization, and efficiency**  
+- 📬 Contact: **yourmail@example.com**
+
+---
+
+## 🧰 Tech Stack
+
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=next,react,tailwind,flutter,ts,html,css" />
+</p>
+
+### **Backend & Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,prisma,postgres,mysql" />
+</p>
+
+### **Tools & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,nginx,linux,vscode,github,postman" />
 </p>
 
 ---
 
-### 🔗 Social Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)  
-[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](YOUR_INSTAGRAM)  
-[![Portfolio](https://img.shields.io/badge/Website-000?logo=vercel&logoColor=white)](YOUR_PORTFOLIO)
+## 📊 GitHub Performance
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical" />
+</p>
 
 ---
 
-### ⚡ Fun Fact
-"I ship dashboards faster than your boss can say **deadline** 😆"
+## 🧠 Top Languages
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+</p>
 
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&column=6&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+<p>
+  <a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="YOUR_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="YOUR_PORTFOLIO"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+> I break production, then fix it — cleaner than before 😆
+
+---
+
+<p align="center">
+  <sub>Crafted with ❤️ by Wissa Gamma E,L</sub>
+</p>
