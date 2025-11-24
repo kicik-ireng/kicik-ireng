@@ -1,97 +1,107 @@
-<!-- HERO SECTION -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3500&color=00E5FF&center=true&vCenter=true&width=500&lines=Wissa+Gamma+E,L;Industrial+Software+Engineer;PT.+Vuteq+Indonesia;Building+Modern+Factory+Ecosystems+🚀" />
+<!-- FULL BACKGROUND -->
+<div style="position:relative;">
+  <img src="https://i.imgur.com/V8Q1ZKf.gif" width="100%" alt="Banner GIF"/>
+</div>
+
+<!-- GLASS CARD TITLE -->
+<div align="center" style="
+  margin-top:-120px;
+  background:rgba(255,255,255,0.06);
+  backdrop-filter:blur(10px);
+  padding:25px 40px;
+  border-radius:18px;
+  box-shadow:0 8px 32px rgba(0,0,0,0.37);
+  width:70%;
+">
+
+<h1 style="color:#00E5FF;">Hi 👋, I'm <b>Wissa Gamma E,L</b></h1>
+<h3 style="color:#E0E0E0;">Industrial Software Engineer — PT. Vuteq Indonesia</h3>
+
 </div>
 
 <br/>
 
-<!-- INTRO CARD -->
-<div align="center">
+<!-- ANIMATED TEXT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3500&color=00E5FF&center=true&vCenter=true&width=550&lines=Industrial+Software+Engineer;Creator+of+Modern+Factory+Dashboards;Fullstack+Developer;Automation+%7C+QC+Systems+%7C+Monitoring" />
+</p>
+
+---
+
+## 🔥 About Me
+<div style="
+  background:rgba(255,255,255,0.05);
+  padding:20px;
+  border-radius:14px;
+  backdrop-filter:blur(8px);
+">
   
-🌐 **Industrial Software Developer**  
-⚙️ Specializing in **Factory Automation, QC Systems, Industrial Dashboards**  
-🧩 Crafting **scalable full-stack systems** with precision and clean design  
+I build **modern industrial systems** with clean UI, fast backend, and real production logic.  
+Focusing on factory dashboards, QC systems, scanning, automation, and enterprise tools.
+
+- 🏭 Industrial developer @ **PT. Vuteq Indonesia**  
+- 🧠 Learning: **Next.js • NestJS • Flutter • DevOps**  
+- ⚙️ I love solving **real-world factory problems**  
+- ✉️ Email: **yourmail@example.com**
 
 </div>
 
 ---
 
-## 🔥 **About Me**
-I build modern industrial systems — combining clean UI, reliable backend architecture, and automation logic used in real factory environments.
+## 🛠 Tech Stack
+<div align="center">
 
-- 🧭 Currently engineering systems at **PT. Vuteq Indonesia**  
-- 🏗 Building: dashboards, QC apps, scanning systems, production tracking  
-- 🧠 Learning: **Next.js • NestJS • Flutter • DevOps • System Design**  
-- ⚡ Known for: fast execution, clean architecture, scalable design  
-- 📬 Reach me: `wissagamma@vuteq.co.id`
-
----
-
-## 🧰 **Tech Arsenal**
 ### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=next,react,tailwind,flutter,ts,redux" />
-</p>
+<img src="https://skillicons.dev/icons?i=next,react,tailwind,flutter,ts" /><br/>
 
 ### **Backend & Database**
-<p>
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,prisma,postgres,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,prisma,postgres,mysql" /><br/>
 
-### **DevOps & Tooling**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,githubactions,postman,vscode" />
-</p>
+### **DevOps / Tools**
+<img src="https://skillicons.dev/icons?i=docker,nginx,git,github,linux,postman" />
+
+</div>
 
 ---
 
-## 📈 **Performance Dashboard**
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=react&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF"/>
-</p>
+## 📊 GitHub Analytics
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
-## 🧪 **Top Languages**
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00E5FF"/>
-</p>
+## 🧠 Top Languages
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
-## 🏆 **Developer Trophy Wall**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-bg=true&margin-w=12" />
-</p>
+## 🏆 Trophy Wall
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-bg=true&margin-w=10"/>
+</div>
 
 ---
 
-## 🚀 **Featured Skill Badges**
-<p align="center">
-  <img src="https://img.shields.io/badge/Clean%20Architecture-00E5FF?style=for-the-badge&logo=buffer&logoColor=black" />
-  <img src="https://img.shields.io/badge/Industrial%20Systems-0A0?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/High%20Performance%20Backend-FF0080?style=for-the-badge&logo=serverless" />
-</p>
-
----
-
-## 🔗 **Find Me Online**
-<p>
+## 🌐 Connect With Me
+<div align="center">
   <a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
   <a href="YOUR_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram"/></a>
   <a href="YOUR_PORTFOLIO"><img src="https://skillicons.dev/icons?i=vercel"/></a>
-</p>
+</div>
 
 ---
 
-## ⚡ Fun Fact
-> My dashboards never crash.  
->  
-> Users do. 😆
+## ⚡ Fun Quote
+> “I turn chaos into clean architecture. Every. Single. Day.”
 
 ---
 
 <div align="center">
-  <sub>Designed with precision — by Wissa Gamma E,L</sub>
+  <img src="https://i.imgur.com/OK7bQ5L.gif" width="300px"/>
+  <br/><br/>
+  <sub style="color:#aaa;">Made with 🔥 by <b>Wissa Gamma E,L</b></sub>
 </div>
