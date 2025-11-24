@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm <YOUR NAME></h1>
-<h3 align="center">A passionate developer from Indonesia</h3>
+<h1 align="center">Hi 👋, I'm Wissa Gamma E,L</h1>
+<h3 align="center">Industrial Software Developer at PT. Vuteq Indonesia</h3>
 
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **Next.js, NestJS, Flutter, DevOps**
-- 💼 Working on **industrial dashboards & factory systems**
-- 🔥 Passionate about building **clean UI, fast backend, and scalable systems**
+- 🌱 Currently learning **Next.js, NestJS, Flutter, DevOps**
+- 💼 Working on **industrial dashboards, QC systems, factory management apps**
+- 🔥 Focused on building **clean UI/UX, high-performance backend, and scalable systems**
+- 🧪 Experienced with **real-time monitoring, production tracking, and enterprise systems**
 - 📫 Reach me at: **yourmail@example.com**
 
 ---
 
 ### 🛠️ Tech Stack
+
 **Frontend:**  
 Next.js • React • TailwindCSS • Ant Design • Flutter
 
@@ -19,7 +21,7 @@ Next.js • React • TailwindCSS • Ant Design • Flutter
 NestJS • Node.js • Prisma • PostgreSQL • MySQL
 
 **Tools & DevOps:**  
-Docker • Git • GitHub Actions • Linux • Nginx
+Docker • Git • GitHub Actions • Linux • Nginx • PM2
 
 ---
 
@@ -39,11 +41,12 @@ Docker • Git • GitHub Actions • Linux • Nginx
 ---
 
 ### 🔗 Social Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](YOUR_INSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)  
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](YOUR_INSTAGRAM)  
 [![Portfolio](https://img.shields.io/badge/Website-000?logo=vercel&logoColor=white)](YOUR_PORTFOLIO)
 
 ---
 
 ### ⚡ Fun Fact
-"I ship dashboards faster than your boss can say *deadline* 😆"
+"I ship dashboards faster than your boss can say **deadline** 😆"
+
