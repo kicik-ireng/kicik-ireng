@@ -1,3 +1,4 @@
+<div align="center" style="background: url('https://4kwallpapers.com/images/walls/thumbs_3t/16579.jpg') no-repeat center center; background-size: cover; padding: 20px; border-radius: 10px;">
 # 👋 Hi, I'm **Wissa Gamma E,L**
 
 💻 **Software Developer** | **IT Department, PT. Vuteq Indonesia**  
