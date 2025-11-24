@@ -6,8 +6,7 @@
 </table>
 
 
-
-![👋 Wissa Gamma E,L](https://img.shields.io/badge/%F0%9F%91%8B-Wissa%20Gamma%20E,L-blue?style=for-the-badge)
+# Hi, I'm **Wissa Gamma E,L**
 ![💻 Software Developer](https://img.shields.io/badge/%F0%9F%92%BB-Software%20Developer-blue?style=for-the-badge)
 ![🏢 IT Department](https://img.shields.io/badge/%F0%9F%8F%A2-IT%20Department-green?style=for-the-badge)
 
