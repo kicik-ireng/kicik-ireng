@@ -1,6 +1,6 @@
 <!-- FULL CYBERPUNK BACKGROUND -->
 <div style="
-  background:url('https://i.imgur.com/7eQkAqj.gif') no-repeat center/cover;
+  background:url('[https://i.imgur.com/7eQkAqj.gif](http://i.imgur.com/y8g506n.png?1)') no-repeat center/cover;
   padding:50px;
   border-radius:20px;
 ">
