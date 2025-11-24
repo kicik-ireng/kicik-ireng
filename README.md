@@ -9,9 +9,9 @@
 
 # 👋 Hi, I'm **Wissa Gamma E,L**
 
-💻 **Software Developer** | **IT Department, PT. Vuteq Indonesia**  
+![💻 Software Developer](https://img.shields.io/badge/%F0%9F%92%BB-Software%20Developer-blue?style=for-the-badge)
+![🏢 IT Department](https://img.shields.io/badge/%F0%9F%8F%A2-IT%20Department-green?style=for-the-badge)
 
-🚀 Passionate about creating impactful software solutions and improving workflows through technology.
 
 
 ---
