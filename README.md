@@ -1,6 +1,9 @@
-# Wissa Gamma E,L 👋
+# 👋 Hi, I'm **Wissa Gamma E,L**
 
-Software Developer at **PT. Vuteq Indonesia – IT Department**
+💻 **Software Developer** | **IT Department, PT. Vuteq Indonesia**  
+
+🚀 Passionate about creating impactful software solutions and improving workflows through technology.
+
 
 ---
 
@@ -30,8 +33,9 @@ Software Developer at **PT. Vuteq Indonesia – IT Department**
 
 ## 📫 Contact Me
 
-- **Email:** [wissagamma@vuteq.co.id](mailto:wissagamma@vuteq.co.id)
-- **GitHub:** [kicik-ireng](https://github.com/kicik-ireng)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)](https://github.com/kicik-ireng)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:wissagamma@vuteq.co.id)
+
 
 ---
 
