@@ -7,8 +7,21 @@
 
 
 # Hi, I'm **Wissa Gamma E,L**
-![💻 Software Developer](https://img.shields.io/badge/%F0%9F%92%BB-Software%20Developer-blue?style=for-the-badge)
-![🏢 IT Department](https://img.shields.io/badge/%F0%9F%8F%A2-IT%20Department-green?style=for-the-badge)
+## 💼 Professional Roles
+
+![Software Developer](https://img.shields.io/badge/Software%20Developer-007ACC?style=for-the-badge)
+![Web Developer](https://img.shields.io/badge/Web%20Developer-4285F4?style=for-the-badge)
+![Mobile Developer](https://img.shields.io/badge/Mobile%20Developer-34C759?style=for-the-badge)
+![AI Engineer](https://img.shields.io/badge/AI%20Engineer-FF6B6B?style=for-the-badge) 
+![IT Support](https://img.shields.io/badge/IT%20Support-28A745?style=for-the-badge)
+![Network Engineer](https://img.shields.io/badge/Network%20Engineer-DC3545?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FFC107?style=for-the-badge)
+![Cloud Engineer](https://img.shields.io/badge/Cloud%20Engineer-6F42C1?style=for-the-badge)
+![Graphic Design](https://img.shields.io/badge/Graphic%20Design-E4405F?style=for-the-badge)
+![Software Design](https://img.shields.io/badge/Software%20Design-6F42C1?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/Architecture-495057?style=for-the-badge)
+![Data Analyst](https://img.shields.io/badge/Data%20Analyst-FD7E14?style=for-the-badge)
+![Crypto Enthusiast](https://img.shields.io/badge/Crypto%20Enthusiast-F7931A?style=for-the-badge)
 
 
 
