@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Wissa%20Gamma%20E.L&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Lead%20Systems%20Architect%20%7C%20AI%20Specialist&descSize=20&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=220&section=header&text=WISSA%20GAMMA%20E.L&fontSize=55&animation=fadeIn&fontAlignY=35&desc=NEXT-GEN%20SYSTEMS%20ARCHITECT&descSize=20&descAlignY=55" width="100%" />
 
 <br />
 
-<table border="0">
+<table border="0" style="background: transparent;">
   <tr>
     <td align="center" style="border: none;">
-      <img src="./assets/BG.png" alt="Profile" width="120" style="border-radius: 20px;"/>
+      <img src="./assets/BG.png" alt="Profile" width="130" style="border-radius: 30px; border: 3px solid #007ACC;"/>
     </td>
-    <td align="center" style="border: none; padding: 0 20px;">
-       <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=400&lines=Software+Architect;Cyber+Security+Analyst;Cloud+Computing+Expert;Innovating+at+VUTEQ" alt="Typing SVG" />
+    <td align="center" style="border: none; padding: 0 40px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=4285F4&center=true&vCenter=true&width=450&lines=Full-Stack+Architect;Cyber+Security+Expert;AI+Research+Engineer;Enterprise+Innovator" alt="Typing SVG" />
+      <br/>
+      <img src="https://img.shields.io/badge/Status-Available_for_Innovation-34C759?style=flat-square&logo=rocket" />
     </td>
     <td align="center" style="border: none;">
       <img src="./assets/BB.png" alt="Company" width="220" />
@@ -20,48 +22,53 @@
 
 ---
 
-### 🚀 Tech Stack Inventory
+### 🛰️ Orbital Technology Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,go,rust,react,nextjs,flutter,tailwind,nodejs,postgres,docker,aws,kubernetes,linux,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,react,nextjs,flutter,tailwind,nodejs,postgres,docker,aws,kubernetes,linux,figma&perline=8" />
 </p>
 
 ---
 
-### 📊 System Analytics
+### ⚡ Real-time System Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kicik-ireng&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kicik-ireng&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kicik-ireng&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=007ACC&icon_color=007ACC" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kicik-ireng&theme=react&hide_border=true&background=0D1117&stroke=007ACC&ring=007ACC&fire=007ACC" width="48%" />
 </p>
 
----
-
-### 🏆 Achievement & Contributions
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kicik-ireng&theme=tokyonight&no-frame=true&column=4" width="90%" />
-</div>
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kicik-ireng&theme=tokyonight&area=true&hide_border=true&color=38bdf8" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kicik-ireng&theme=react-dark&area=true&hide_border=true&color=007ACC&height=300" width="100%" />
 
 ---
 
-### 🌐 Secure Communication
+### 🐍 Contribution Journey
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kicik-ireng/kicik-ireng/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kicik-ireng/kicik-ireng/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kicik-ireng/kicik-ireng/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+---
+
+### 🏆 Achievement Gallery
+<img src="https://github-profile-trophy.vercel.app/?username=kicik-ireng&theme=tokyonight&no-frame=true&column=7&margin-w=15" width="100%" />
+
+---
+
+### 📡 Data Transmission
 <p align="center">
 <a href="mailto:wissagamma@vuteq.co.id">
-  <img src="https://img.shields.io/badge/—%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/—%20Secure_Mail-007ACC?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/YOUR_USER">
-  <img src="https://img.shields.io/badge/—%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/—%20Neural_Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/kicik-ireng">
-  <img src="https://img.shields.io/badge/—%20Github-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/—%20Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=38bdf8&height=2&section=footer" width="100%" />
-<p align="center"><sub><i>Engineering Excellence • 2026 Edition</i></sub></p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%" />
+<p align="center"><sub><i>Automating the future, one commit at a time.</i></sub></p>
 
 </div>
