@@ -1,97 +1,104 @@
 <div align="center">
 
-# 🌌 Wissa Gamma E.L
-### **Senior Systems Architect & Full-Stack Innovator**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+Scalable+Architectures;AI+Integrations+%26+Cloud+Computing;Cyber+Security+Specialist;Turning+Code+into+Impactful+Solutions" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=WISSA%20GAMMA%20E.L&fontSize=70&animation=fadeIn&fontAlignY=45&desc=Lead%20Systems%20Architect%20%7C%20AI%20%26%20Cloud%20Innovator&descSize=20&descAlignY=65" width="100%" />
 
 <br />
 
 <table border="0">
   <tr>
     <td align="center" style="border: none;">
-      <img src="./assets/BG.png" alt="Wissa Gamma" width="150" style="border-radius: 50%"/>
+      <img src="./assets/BG.png" alt="Profile" width="140" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);"/>
     </td>
-    <td align="center" style="border: none;">
-      <img src="./assets/BB.png" alt="VUTEQ" width="300"/>
+    <td align="center" style="border: none; padding-left: 50px;">
+      <img src="./assets/BB.png" alt="Company" width="280" style="filter: drop-shadow(0 0 10px rgba(0,0,0,0.1));"/>
     </td>
   </tr>
 </table>
 
-[![Followers](https://img.shields.io/github/followers/kicik-ireng?label=Followers&style=for-the-badge&color=211F1F&logo=github)](https://github.com/kicik-ireng)
-[![Stars](https://img.shields.io/github/stars/kicik-ireng?label=Stars&style=for-the-badge&color=211F1F&logo=reverbnation)](https://github.com/kicik-ireng)
-
----
-
-## 🏆 Achievement Showcase
-<img src="https://github-profile-trophy.vercel.app/?username=kicik-ireng&theme=dracula&no-frame=true&column=4&margin-w=15" width="100%" alt="trophies" />
-
----
-
-## 🛠️ Tech Stack Ecosystem
-<p align="left">
-  <img src="https://img.shields.io/badge/Main_Focus-Enterprise_Solutions-blue?style=for-the-badge&logo=rocket" />
-  <img src="https://img.shields.io/badge/Architecture-Distributed_Systems-red?style=for-the-badge&logo=diagram-next" />
-</p>
-
-### 🚀 Core Proficiencies
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | `JavaScript` `TypeScript` `Python` `Go` `Rust` `Java` `C#` `C++` |
-| **Frontend** | `React` `Next.js` `Vue` `Flutter` `Tailwind` `SwiftUI` |
-| **Backend** | `Node.js` `Django` `NestJS` `Spring Boot` `Laravel` `Fiber` |
-| **Infrastructure** | `AWS` `Docker` `Kubernetes` `Terraform` `CI/CD` `Nginx` |
-| **Security/Data** | `OWASP` `PostgreSQL` `MongoDB` `Redis` `Pandas` `PyTorch` |
-
-<details>
-<summary><b>📂 View Full Technical Inventory (100+ Tools)</b></summary>
 <br />
 
-> **Languages & Scripting:**
-> ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) ![C%23](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin) ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Architecting+the+Future+of+Data;Specializing+in+Distributed+Systems;Cybersecurity+Architect+@+VUTEQ;Full-Stack+Web3+Enthusiast" alt="Typing SVG" />
 
-> **DevOps & Cloud:**
-> ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) ![K8s](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform) ![GitHubActions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus)
+---
 
-> **Databases:**
-> ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql) ![Postgres](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis) ![ElasticSearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch)
+### 🌌 Digital Mastery & Ecosystem
+*Transforming lines of code into high-performance enterprise assets.*
 
-*(Semua teknologi yang Anda sebutkan sebelumnya telah terintegrasi secara sistematis di sini)*
+<table width="100%">
+  <tr>
+    <td width="33%" align="top">
+      <h4>🛠️ Core Infrastructure</h4>
+      <code>Docker</code> <code>Kubernetes</code><br/>
+      <code>AWS</code> <code>Terraform</code><br/>
+      <code>CI/CD Pipelines</code> <code>Linux</code>
+    </td>
+    <td width="33%" align="top">
+      <h4>💻 Full-Stack Suite</h4>
+      <code>Next.js</code> <code>TypeScript</code><br/>
+      <code>Go</code> <code>Rust</code> <code>Python</code><br/>
+      <code>NestJS</code> <code>PostgreSQL</code>
+    </td>
+    <td width="33%" align="top">
+      <h4>🧠 Intelligence & Sec</h4>
+      <code>AI Integration</code> <code>PyTorch</code><br/>
+      <code>Pen-Testing</code> <code>OWASP</code><br/>
+      <code>Web3 / Crypto</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Repository Insight & Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kicik-ireng&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kicik-ireng&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8" width="48%" />
+</p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kicik-ireng&theme=tokyonight&no-frame=true&column=7&margin-w=20" width="100%" />
+
+---
+
+### ⚡ Contribution Pulse
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kicik-ireng&theme=react-dark&area=true&hide_border=true&custom_title=System%20Activity%20Stream" width="100%" />
+
+---
+
+### 📁 Tech Stack Inventory
+<details>
+<summary><b>Explore Detailed Skill Matrix (Click to expand)</b></summary>
+<br />
+
+| Field | Technologies |
+| :--- | :--- |
+| **Cloud Ops** | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![ReactNative](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **Architecture** | ![Microservices](https://img.shields.io/badge/Microservices-FF5722?style=flat-square) ![Serverless](https://img.shields.io/badge/Serverless-9C27B0?style=flat-square) |
+| **Others** | *Terdapat 150+ tools lainnya dalam arsenal pengembangan saya.* |
+
 </details>
 
 ---
 
-## 📈 Engineering Metrics
+### 🌐 Let's Build the Future
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kicik-ireng&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kicik-ireng&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kicik-ireng&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kicik-ireng&theme=tokyonight" width="50%" />
-</p>
-
----
-
-## ⚡ Recent Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kicik-ireng&theme=tokyonight&area=true&hide_border=true" width="100%" />
-</p>
-
----
-
-## 🤝 Contact & Network
-<p align="center">
-<a href="mailto:wissagamma@vuteq.co.id"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/kicik-ireng"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:wissagamma@vuteq.co.id">
+  <img src="https://img.shields.io/badge/—%20Hire%20Me-007ACC?style=for-the-badge&logo=minutemailer&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/YOUR_USER">
+  <img src="https://img.shields.io/badge/—%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://your-portfolio.com">
+  <img src="https://img.shields.io/badge/—%20Portfolio-FF4B4B?style=for-the-badge&logo=hotjar&logoColor=white" />
+</a>
 </p>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=footer" width="100%" />
+  <sub>Built with precision by <b>Wissa Gamma E.L</b> • 2026 Edition</sub>
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=007ACC&height=2&section=footer" width="100%" />
 </div>
 
 </div>
