@@ -1,66 +1,74 @@
 <div align="center">
 
-<!-- Dynamic Header -->
-![](https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:64FFDA&height=200&section=header&text=WISSA+GAMMA+E.L&fontSize=50&animation=fadeIn&fontAlignY=40&desc=SYSTEMS+ARCHITECT&descSize=22&descAlignY=68)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=220&section=header&text=WISSA%20GAMMA%20E.L&fontSize=55&animation=fadeIn&fontAlignY=35&desc=NEXT-GEN%20SYSTEMS%20ARCHITECT&descSize=20&descAlignY=55" width="100%" />
 
-<br>
+<br />
 
-<!-- Profile Section -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Research+Engineer;Cloud+Architect;DevOps+Engineer" alt="Typing SVG">
+<table border="0" style="background: transparent;">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="./assets/BG.png" alt="Profile" width="130" style="border-radius: 30px; border: 3px solid #007ACC;"/>
+    </td>
+    <td align="center" style="border: none; padding: 0 40px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=4285F4&center=true&vCenter=true&width=450&lines=Full-Stack+Architect;Cyber+Security+Expert;AI+Research+Engineer;Enterprise+Innovator" alt="Typing SVG" />
+      <br/>
+      <img src="https://img.shields.io/badge/Status-Available_for_Innovation-34C759?style=flat-square&logo=rocket" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="./assets/BB.png" alt="Company" width="220" />
+    </td>
+  </tr>
+</table>
 
-<br>
+---
 
-<!-- Status Badge -->
-![](https://img.shields.io/badge/STATUS-ACTIVE-64FFDA?style=for-the-badge&logo=statuspal&logoColor=000)
-![](https://img.shields.io/badge/FOCUS-SYSTEMS_ARCHITECTURE-007ACC?style=for-the-badge&logo=target&logoColor=white)
+### 🛰️ Orbital Technology Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,react,nextjs,flutter,tailwind,nodejs,postgres,docker,aws,kubernetes,linux,figma&perline=8" />
+</p>
 
-<br>
+---
 
-### 🚀 TECH STACK
+### ⚡ Real-time System Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kicik-ireng&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=007ACC&icon_color=007ACC" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kicik-ireng&theme=react&hide_border=true&background=0D1117&stroke=007ACC&ring=007ACC&fire=007ACC" width="48%" />
+</p>
 
-<!-- Frontend -->
-![](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kicik-ireng&theme=react-dark&area=true&hide_border=true&color=007ACC&height=300" width="100%" />
 
-<!-- Backend -->
-![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+---
 
-<!-- Cloud & DevOps -->
-![](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+### 🐍 Contribution Journey
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kicik-ireng/kicik-ireng/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kicik-ireng/kicik-ireng/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kicik-ireng/kicik-ireng/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
-<br>
-<br>
+---
 
-### 📈 GITHUB STATS
+### 🏆 Achievement Gallery
+<img src="https://github-profile-trophy.vercel.app/?username=kicik-ireng&theme=tokyonight&no-frame=true&column=7&margin-w=15" width="100%" />
 
-<!-- Compact Stats -->
-![](https://github-readme-stats.vercel.app/api?username=kicik-ireng&show_icons=true&theme=radical&hide_title=true&hide_border=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kicik-ireng&theme=radical&hide_border=true)
+---
 
-<br>
+### 📡 Data Transmission
+<p align="center">
+<a href="mailto:wissagamma@vuteq.co.id">
+  <img src="https://img.shields.io/badge/—%20Secure_Mail-007ACC?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/YOUR_USER">
+  <img src="https://img.shields.io/badge/—%20Neural_Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/kicik-ireng">
+  <img src="https://img.shields.io/badge/—%20Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
-### 💻 MOST USED LANGUAGES
+<br />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kicik-ireng&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%" />
+<p align="center"><sub><i>Automating the future, one commit at a time.</i></sub></p>
 
-<br>
-
-### 🎯 CURRENT FOCUS
-
-```javascript
-const currentFocus = {
-  architecture: "Microservices & Cloud Native",
-  frontend: "Next.js 14 + TypeScript",
-  backend: "Node.js + Python FastAPI",
-  infrastructure: "Kubernetes + Terraform",
-  database: "PostgreSQL + Redis",
-  monitoring: "Prometheus + Grafana"
-};
+</div>
