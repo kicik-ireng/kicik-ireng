@@ -37,21 +37,24 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kicik-ireng&theme=react-dark&area=true&hide_border=true&color=007ACC&height=300" width="100%" />
 
----
-
 ### 🐍 Contribution Journey
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kicik-ireng/kicik-ireng/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kicik-ireng/kicik-ireng/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kicik-ireng/kicik-ireng/output/github-contribution-grid-snake.svg" width="100%">
+  <source
+    srcset="https://raw.githubusercontent.com/kicik-ireng/kicik-ireng/output/github-contribution-grid-snake-dark.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://raw.githubusercontent.com/kicik-ireng/kicik-ireng/output/github-contribution-grid-snake.svg"
+    media="(prefers-color-scheme: light)"
+  />
+  <img
+    src="https://raw.githubusercontent.com/kicik-ireng/kicik-ireng/output/github-contribution-grid-snake.svg"
+    alt="github contribution snake animation"
+    width="100%"
+  />
 </picture>
 
----
-
-### 🏆 Achievement Gallery
-<img src="https://github-profile-trophy.vercel.app/?username=kicik-ireng&theme=tokyonight&no-frame=true&column=7&margin-w=15" width="100%" />
-
----
 
 ### 📡 Data Transmission
 <p align="center">
