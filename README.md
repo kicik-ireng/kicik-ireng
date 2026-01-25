@@ -39,21 +39,12 @@
 
 ### 🐍 Contribution Journey
 
-<picture>
-  <source
-    srcset="https://raw.githubusercontent.com/kicik-ireng/kicik-ireng/output/github-contribution-grid-snake-dark.svg"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://raw.githubusercontent.com/kicik-ireng/kicik-ireng/output/github-contribution-grid-snake.svg"
-    media="(prefers-color-scheme: light)"
-  />
-  <img
-    src="https://raw.githubusercontent.com/kicik-ireng/kicik-ireng/output/github-contribution-grid-snake.svg"
-    alt="github contribution snake animation"
-    width="100%"
-  />
-</picture>
+<img
+  src="https://raw.githubusercontent.com/kicik-ireng/kicik-ireng/output/github-contribution-grid-snake.svg"
+  alt="github contribution snake animation"
+  width="100%"
+/>
+
 
 
 ### 📡 Data Transmission
