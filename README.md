@@ -1,91 +1,66 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=WISSA+GAMMA+E.L&fontSize=55&animation=fadeIn&fontAlignY=38&desc=NEXT-GEN+TECHNOLOGY+ARCHITECT&descSize=20&descAlignY=68" width="100%" />
+<!-- Dynamic Header -->
+![](https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:64FFDA&height=200&section=header&text=WISSA+GAMMA+E.L&fontSize=50&animation=fadeIn&fontAlignY=40&desc=SYSTEMS+ARCHITECT&descSize=22&descAlignY=68)
 
-<br />
+<br>
 
 <!-- Profile Section -->
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="./assets/BG.png" alt="Profile" width="130" style="border-radius: 50%; border: 3px solid #007ACC;" />
-    </td>
-    <td align="center" width="400">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=450&lines=Systems+Architect;AI+Research+Engineer;Cyber+Security+Expert;Full-Stack+Developer" alt="Typing SVG" />
-      <br/>
-      <img src="https://img.shields.io/badge/🚀_AVAILABLE_FOR_INNOVATION-007ACC?style=for-the-badge&logo=rocket&logoColor=white" />
-    </td>
-    <td align="center" width="140">
-      <img src="./assets/BB.png" alt="Company" width="220" />
-    </td>
-  </tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Research+Engineer;Cloud+Architect;DevOps+Engineer" alt="Typing SVG">
 
----
+<br>
 
-### 🛠️ TECH STACK
+<!-- Status Badge -->
+![](https://img.shields.io/badge/STATUS-ACTIVE-64FFDA?style=for-the-badge&logo=statuspal&logoColor=000)
+![](https://img.shields.io/badge/FOCUS-SYSTEMS_ARCHITECTURE-007ACC?style=for-the-badge&logo=target&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,redux&theme=dark&perline=6" />
-  <img src="https://skillicons.dev/icons?i=ts,js,py,go,rust,java&theme=dark&perline=6" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,docker,kubernetes&theme=dark&perline=6" />
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,postgres,mongodb,redis&theme=dark&perline=6" />
-</p>
+<br>
 
----
+### 🚀 TECH STACK
 
-### 📊 STATISTICS
+<!-- Frontend -->
+![](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kicik-ireng&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=007ACC&icon_color=007ACC&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kicik-ireng&theme=radical&hide_border=true&background=0D1117&ring=007ACC&fire=FF6B6B" width="48%" />
-</p>
+<!-- Backend -->
+![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kicik-ireng&theme=react-dark&area=true&hide_border=true&color=007ACC&line=64FFDA&point=FFFFFF&height=300" width="100%" />
-</p>
+<!-- Cloud & DevOps -->
+![](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
----
+<br>
+<br>
 
-### 🐍 CONTRIBUTION GRAPH
+### 📈 GITHUB STATS
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kicik-ireng/kicik-ireng/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kicik-ireng/kicik-ireng/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kicik-ireng/kicik-ireng/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+<!-- Compact Stats -->
+![](https://github-readme-stats.vercel.app/api?username=kicik-ireng&show_icons=true&theme=radical&hide_title=true&hide_border=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kicik-ireng&theme=radical&hide_border=true)
 
----
+<br>
 
-### 🏆 ACHIEVEMENTS
+### 💻 MOST USED LANGUAGES
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kicik-ireng&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" width="100%" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kicik-ireng&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
----
+<br>
 
-### 📬 CONNECT WITH ME
+### 🎯 CURRENT FOCUS
 
-<p align="center">
-  <a href="mailto:wissagamma@vuteq.co.id">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_USER">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/kicik-ireng">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%" />
-
-<p align="center">
-  <i>Building the future • One commit at a time</i>
-</p>
-
-</div>
+```javascript
+const currentFocus = {
+  architecture: "Microservices & Cloud Native",
+  frontend: "Next.js 14 + TypeScript",
+  backend: "Node.js + Python FastAPI",
+  infrastructure: "Kubernetes + Terraform",
+  database: "PostgreSQL + Redis",
+  monitoring: "Prometheus + Grafana"
+};
