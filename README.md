@@ -37,12 +37,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kicik-ireng&theme=react-dark&area=true&hide_border=true&color=007ACC&height=300" width="100%" />
 
-### 🐍 Contribution Journey
-
-![Contribution Snake](https://raw.githubusercontent.com/kicik-ireng/kicik-ireng/output/github-contribution-grid-snake.svg)
-
-
-
 
 ### 📡 Data Transmission
 <p align="center">
