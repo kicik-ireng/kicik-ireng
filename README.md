@@ -39,11 +39,8 @@
 
 ### 🐍 Contribution Journey
 
-<img
-  src="https://raw.githubusercontent.com/kicik-ireng/kicik-ireng/output/github-contribution-grid-snake.svg"
-  alt="github contribution snake animation"
-  width="100%"
-/>
+![Contribution Snake](https://raw.githubusercontent.com/kicik-ireng/kicik-ireng/output/github-contribution-grid-snake.svg)
+
 
 
 
