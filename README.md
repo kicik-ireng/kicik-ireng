@@ -8,9 +8,6 @@
 
 <br>
 
-<p align="center">
-  <sub>// core arsenal</sub>
-</p>
 
 <p align="center">
   <code>next.js</code> <code>nest.js</code> <code>flutter</code><br>
@@ -19,9 +16,6 @@
 
 <br>
 
-<p align="center">
-  <sub>// extended stack</sub>
-</p>
 
 <p align="center">
   <code>typescript</code> <code>node.js</code> <code>react</code> <code>go</code><br>
@@ -30,11 +24,6 @@
 
 <br>
 <br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kicik-ireng&show_icons=true&theme=transparent&title_color=2c3e44&icon_color=5a6e7a&text_color=5a6e7a&hide_border=true&include_all_commits=true&card_width=420" />
-</p>
-
 <br>
 
 <p align="center">
