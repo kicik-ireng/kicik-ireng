@@ -1,5 +1,5 @@
 <p align="center">
-  <b style="font-family: 'Inter', 'Segoe UI', sans-serif; font-size: 72px; font-weight: 1000; letter-spacing: -4px; text-transform: uppercase; color: #FFFFFF; line-height: 1;">
+  <b style="font-family: 'Inter', sans-serif; font-size: 72px; font-weight: 900; letter-spacing: -4px; text-transform: uppercase; color: #FFFFFF; line-height: 1;">
     WISSA GAMMA E.L<span style="color: #4A6CF7;">.</span>
   </b>
 </p>
@@ -13,9 +13,7 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,flutter,react,ts,nodejs,go,figma&theme=dark" height="30" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=fortinet,proxmox,docker,postgres,linux,aws,nginx,redis&theme=dark" height="30" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,flutter,react,ts,nodejs,go,fortinet,proxmox,docker,postgres,linux,aws,nginx,redis,figma&theme=dark" height="28" />
 </div>
 
 <br>
