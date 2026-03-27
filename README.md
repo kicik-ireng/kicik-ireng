@@ -4,18 +4,18 @@
   </b>
 </p>
 
-<p align="center" style="margin-top: -20px;">
-  <code style="font-size: 11px; letter-spacing: 4px; color: #4A6CF7; font-weight: 700; text-transform: uppercase;">
-    &lt; <span style="color: #8B949E;">Fullstack</span> &nbsp; <span style="color: #8B949E;">Mobile</span> &nbsp; <span style="color: #8B949E;">Network</span> &gt;
-  </code>
+<p align="center" style="margin-top: -30px;">
+  <span style="font-family: 'Inter', sans-serif; font-size: 10px; letter-spacing: 8px; color: #8B949E; text-transform: uppercase; font-weight: 500;">
+    &nbsp;Fullstack &nbsp;•&nbsp; Mobile &nbsp;•&nbsp; Network
+  </span>
 </p>
 
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,flutter,ts,nodejs,go&theme=dark" height="30" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,flutter,react,ts,nodejs,go&theme=dark" height="30" />
   <br>
-  <img src="https://skillicons.dev/icons?i=fortinet,proxmox,docker,postgres,linux,aws,nginx,redis&theme=dark" height="30" />
+  <img src="https://skillicons.dev/icons?i=fortinet,proxmox,docker,postgres,linux,aws,nginx&theme=dark" height="30" />
 </div>
 
 <br>
