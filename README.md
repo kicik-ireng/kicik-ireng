@@ -1,57 +1,52 @@
-<h1 align="left">
-  <span style="font-family: 'SF Mono', 'Fira Code', 'Courier New', monospace; font-weight: 500; letter-spacing: -0.5px;">
-    WISSA GAMMA E.L
-  </span>
-</h1>
-
-<p align="left">
-  <span style="font-family: 'SF Mono', 'Fira Code', monospace; font-size: 0.95rem; font-weight: 400; color: #5a6e7a;">
-    ▸ Full‑Stack Engineer & Mobile Architect
-  </span><br>
-  <span style="font-family: 'SF Mono', 'Fira Code', monospace; font-size: 0.85rem; color: #6c7e8a;">
-    // Architecting high‑performance ecosystems from backend systems to cross‑platform mobile.
-  </span>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1000&color=2D3748&center=true&vCenter=true&repeat=false&width=435&lines=WISSA+GAMMA+E.L" alt="Typing SVG" />
 </p>
 
----
-
-### <span style="font-family: 'SF Mono', monospace; font-weight: 500;">◈ SPECIALIZED IN</span>
-
-<span style="font-family: 'Fira Code', monospace; font-size: 0.85rem;">
-  `Backend Systems` • `Mobile Architecture` • `Infrastructure` • `Security`
-</span>
-
----
-
-### <span style="font-family: 'SF Mono', monospace; font-weight: 500;">◈ TECH STACK</span>
-
-| <span style="font-family: 'Fira Code', monospace;">LANGUAGES</span> | <span style="font-family: 'Fira Code', monospace;">MOBILE & WEB</span> | <span style="font-family: 'Fira Code', monospace;">INFRASTRUCTURE</span> |
-|-----------------|-----------------------|---------------------|
-| `TypeScript`    | `Flutter`             | `PostgreSQL`        |
-| `Node.js`       | `React`               | `Docker`            |
-| `Go`            | `Next.js`             | `AWS`               |
-| `Rust`          | `Figma`               | `Linux / Nginx`     |
-| `Python`        |                       |                     |
-
----
-
-### <span style="font-family: 'SF Mono', monospace; font-weight: 500;">◈ METRICS</span>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kicik-ireng&show_icons=true&theme=transparent&title_color=2f363d&icon_color=586069&text_color=586069&hide_border=true&include_all_commits=true" width="400" />
+<p align="center">
+  <code>Full‑Stack Engineer & Mobile Architect</code><br>
+  <sub>architecting high‑performance ecosystems from backend to cross‑platform mobile</sub>
 </p>
 
----
+<br>
 
-### <span style="font-family: 'SF Mono', monospace; font-weight: 500;">◈ CONNECT</span>
+<p align="center">
+  <code>▸ backend systems</code> <code>▸ mobile architecture</code> <code>▸ infrastructure</code> <code>▸ security</code>
+</p>
 
-<span style="font-family: 'Fira Code', monospace; font-size: 0.85rem;">
-  [<strong>email</strong>](mailto:wissagamma@vuteq.co.id) &nbsp;·&nbsp; [<strong>linkedin</strong>](https://linkedin.com/in/YOUR_USER) &nbsp;·&nbsp; [<strong>github</strong>](https://github.com/kicik-ireng)
-</span>
+<br>
+<br>
 
-<br />
-<br />
+<p align="center">
+  <b>// tech arsenal</b>
+</p>
 
-<p align="left">
-  <kbd style="font-family: 'Fira Code', monospace; font-size: 0.75rem; padding: 0.25rem 0.5rem;">$> ./optimize --latency --impact</kbd>
+<p align="center">
+  <code>TypeScript</code> <code>Node.js</code> <code>Go</code> <code>Rust</code> <code>Python</code><br>
+  <code>Flutter</code> <code>React</code> <code>Next.js</code> <code>Figma</code><br>
+  <code>PostgreSQL</code> <code>Docker</code> <code>AWS</code> <code>Linux</code> <code>Nginx</code>
+</p>
+
+<br>
+<br>
+
+<p align="center">
+  <b>// metrics</b>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kicik-ireng&show_icons=true&theme=transparent&title_color=2c3e44&icon_color=5a6e7a&text_color=5a6e7a&hide_border=true&include_all_commits=true&card_width=420" />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="mailto:wissagamma@vuteq.co.id"><code>email</code></a> 
+  <a href="https://linkedin.com/in/YOUR_USER"><code>linkedin</code></a> 
+  <a href="https://github.com/kicik-ireng"><code>github</code></a>
+</p>
+
+<br>
+
+<p align="center">
+  <sub><kbd>$> optimizing latency, maximizing impact</kbd></sub>
 </p>
