@@ -1,5 +1,5 @@
 <p align="center">
-  <code style="font-family: 'Fira Code', monospace; font-size: 28px; font-weight: 500; letter-spacing: -0.5px;">WISSA GAMMA E.L</code>
+  <code style="font-family: 'Fira Code', monospace; font-size: 40px; font-weight: 800; letter-spacing: 2px;">[ WISSA GAMMA E.L ]</code>
 </p>
 
 <p align="center">
@@ -9,15 +9,14 @@
 <br>
 
 <div align="center">
-  <p>
-    <img src="https://skillicons.dev/icons?i=nextjs,nestjs,flutter&theme=dark" height="28" />
-  </p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=fortinet,proxmox,docker,postgres&theme=dark" height="28" />
-  </p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,go,linux,nginx,aws&theme=dark" height="28" />
-  </p>
+  <code>Frameworks</code><br>
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,flutter,react,nextjs&theme=dark" height="32" />
+  <br><br>
+  <code>Infrastructure</code><br>
+  <img src="https://skillicons.dev/icons?i=fortinet,proxmox,docker,postgres,mongodb,redis&theme=dark" height="32" />
+  <br><br>
+  <code>Environment</code><br>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,go,linux,nginx,aws&theme=dark" height="32" />
 </div>
 
 <br>
@@ -25,7 +24,7 @@
 
 <p align="center">
   <a href="mailto:wissagamma@vuteq.co.id"><code>email</code></a> 
-  <a href="https://github.com/kicik-ireng"><code>github</code></a> 
+  <a href="https://github.com/kicik-ireng"><code>github</code></a>
 </p>
 
 <br>
