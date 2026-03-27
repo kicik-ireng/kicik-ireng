@@ -3,24 +3,29 @@
 </p>
 
 <p align="center">
-  <code>fullstack developer</code>&nbsp;&nbsp;<code>mobile developer</code>&nbsp;&nbsp;<code>network engineer</code>
+  <code>fullstack developer</code> <code>mobile developer</code> <code>network engineer</code>
 </p>
 
 <br>
 
 <div align="center">
-| :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=nextjs,nestjs,flutter&theme=dark" height="25" /> | <img src="https://skillicons.dev/icons?i=ts,nodejs,go&theme=dark" height="25" /> |
-| <img src="https://skillicons.dev/icons?i=fortinet,proxmox,docker&theme=dark" height="25" /> | <img src="https://skillicons.dev/icons?i=linux,nginx,aws&theme=dark" height="25" /> |
-| <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" height="25" /> | <img src="https://skillicons.dev/icons?i=react,figma,git&theme=dark" height="25" /> |
-
+  <p>
+    <img src="https://skillicons.dev/icons?i=nextjs,nestjs,flutter&theme=dark" height="28" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=fortinet,proxmox,docker,postgres&theme=dark" height="28" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,go,linux,nginx,aws&theme=dark" height="28" />
+  </p>
 </div>
 
 <br>
+<br>
 
 <p align="center">
-  <a href="mailto:wissagamma@vuteq.co.id"><code>email</code></a>&nbsp;&nbsp;
-  <a href="https://github.com/kicik-ireng"><code>github</code></a>&nbsp;&nbsp;
+  <a href="mailto:wissagamma@vuteq.co.id"><code>email</code></a> 
+  <a href="https://github.com/kicik-ireng"><code>github</code></a> 
 </p>
 
 <br>
