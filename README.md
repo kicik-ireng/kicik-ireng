@@ -13,9 +13,9 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,flutter,react,ts,nodejs,go&theme=dark" height="30" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,flutter,react,ts,nodejs,go,figma&theme=dark" height="30" />
   <br>
-  <img src="https://skillicons.dev/icons?i=fortinet,proxmox,docker,postgres,linux,aws,nginx&theme=dark" height="30" />
+  <img src="https://skillicons.dev/icons?i=fortinet,proxmox,docker,postgres,linux,aws,nginx,redis&theme=dark" height="30" />
 </div>
 
 <br>
