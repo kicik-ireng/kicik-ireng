@@ -34,5 +34,5 @@
 <br>
 
 <p align="center">
-  <sub><kbd>$> build secure • ship fast • automate everything</kbd></sub>
+<sub><kbd>$> sudo make it work</kbd></sub>
 </p>
