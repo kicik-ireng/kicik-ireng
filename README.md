@@ -4,9 +4,9 @@
   </b>
 </p>
 
-<p align="center" style="margin-top: -15px;">
-  <code style="font-size: 14px; letter-spacing: 5px; color: #8B949E; text-transform: uppercase; opacity: 0.8;">
-    Fullstack • Mobile • Network
+<p align="center" style="margin-top: -20px;">
+  <code style="font-size: 11px; letter-spacing: 4px; color: #4A6CF7; font-weight: 700; text-transform: uppercase;">
+    &lt; <span style="color: #8B949E;">Fullstack</span> &nbsp; <span style="color: #8B949E;">Mobile</span> &nbsp; <span style="color: #8B949E;">Network</span> &gt;
   </code>
 </p>
 
