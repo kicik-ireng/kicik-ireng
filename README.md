@@ -1,5 +1,7 @@
 <p align="center">
-  <code style="font-family: 'Fira Code', monospace; font-size: 40px; font-weight: 800; letter-spacing: 2px;">[ WISSA GAMMA E.L ]</code>
+  <code style="font-family: 'Inter', 'Fira Code', monospace; font-size: 52px; font-weight: 300; letter-spacing: 18px; text-transform: uppercase; color: #FFFFFF;">
+    WISSA GAMMA E.L
+  </code>
 </p>
 
 <p align="center">
@@ -9,14 +11,7 @@
 <br>
 
 <div align="center">
-  <code>Frameworks</code><br>
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,flutter,react,nextjs&theme=dark" height="32" />
-  <br><br>
-  <code>Infrastructure</code><br>
-  <img src="https://skillicons.dev/icons?i=fortinet,proxmox,docker,postgres,mongodb,redis&theme=dark" height="32" />
-  <br><br>
-  <code>Environment</code><br>
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,go,linux,nginx,aws&theme=dark" height="32" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,flutter,react,nextjs,ts,nodejs,go,linux,nginx,aws,fortinet,proxmox,docker,postgres,mongodb,redis&theme=dark" height="32" />
 </div>
 
 <br>
