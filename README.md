@@ -1,68 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=180&section=header&text=WISSA%20GAMMA%20E.L&fontSize=50&animation=fadeIn&fontAlignY=40" width="100%" />
+# ⚡ WISSA GAMMA E.L
+**Full-Stack Developer | Mobile Developer | Network Enginer**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend_%26_Mobile-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Available_for_Projects-34C759?style=for-the-badge" />
+</p>
+
+---
+
+### 💻 Capabilities
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Robust+Backend+Systems+(Node.js+%2F+Go);Cross-Platform+Mobile+(Flutter);Scalable+Web+Apps+(React+%2F+Next.js);IT+Infrastructure+%26+Cloud+Security" alt="Typing SVG" />
+</p>
 
 <br/>
 
-## 🚀 Full-Stack Developer
-**Building seamless digital experiences from infrastructure to interface.**
+### 🛠️ Tech Stack Ecosystem
+<table align="center">
+  <tr>
+    <td align="center" width="300"><b>Development</b></td>
+    <td align="center" width="300"><b>Infrastructure</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ts,nodejs,go,rust,python,flutter,react,nextjs&perline=4" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,postgres,mongodb,figma&perline=4" />
+    </td>
+  </tr>
+</table>
 
+<br/>
+
+### 📊 Engineering Metrics
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Development;Flutter+Mobile+Expert;Scalable+Backend+Systems;IT+Infrastructure+%26+Support" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kicik-ireng&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=007ACC&icon_color=007ACC" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kicik-ireng&theme=react&hide_border=true&background=0D1117&stroke=007ACC&ring=007ACC&fire=007ACC" width="48%" />
 </p>
 
----
+<br/>
 
-### 💡 About Me
-I am a versatile Software Engineer with a deep understanding of the full development lifecycle. 
-From designing responsive **Web and Mobile (Flutter)** interfaces to architecting robust **Backend** systems and managing **IT Infrastructure**. I bridge the gap between complex hardware requirements and high-performance software.
+### 📦 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kicik-ireng&theme=react-dark&area=true&hide_border=true&color=007ACC&height=300" width="100%" />
 
----
+<br/>
 
-### 🛠️ Core Technology Stack
-
-**Frontend & Mobile**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,figma" />
-</p>
-
-**Backend & Database**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,python,go,rust,postgres,mongodb" />
-</p>
-
-**DevOps & Infrastructure**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,linux,nginx" />
-</p>
-
----
-
-### 📊 Development Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kicik-ireng&show_icons=true&theme=transparent&title_color=007ACC&icon_color=007ACC&text_color=B3B3B3&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kicik-ireng&theme=transparent&stroke=007ACC&ring=007ACC&fire=007ACC&currStreakLabel=007ACC&sideNums=B3B3B3&hide_border=true" width="48%" />
-</p>
-
----
-
-### 📫 Get in Touch
+### 🌐 Transmission Gate
 <p align="center">
 <a href="mailto:wissagamma@vuteq.co.id">
   <img src="https://img.shields.io/badge/Email-007ACC?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-&nbsp;
 <a href="https://linkedin.com/in/YOUR_USER">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
 <a href="https://github.com/kicik-ireng">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 </p>
 
-<br />
+---
 
-<p align="center"><i>"Code is read much more often than it is written."</i></p>
+<p align="center"><sub><i>Turning coffee into scalable systems. ☕</i></sub></p>
 
 </div>
