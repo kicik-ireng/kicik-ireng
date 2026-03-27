@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,flutter,react,ts,nodejs,go,fortinet,proxmox,docker,postgres,linux,aws,nginx,redis,figma&theme=dark" height="28" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,flutter,react,ts,nodejs,fortinet,proxmox,docker,postgres,linux,aws,nginx,redis,figma&theme=dark" height="28" />
 </div>
 
 <br>
