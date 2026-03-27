@@ -1,68 +1,49 @@
 <div align="center">
 
-# ⚡ WISSA GAMMA E.L
-**Full-Stack Developer | Mobile Developer | Network Enginer**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=WISSA+GAMMA+E.L" alt="Name" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend_%26_Mobile-007ACC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Available_for_Projects-34C759?style=for-the-badge" />
+  <b>Full-Stack Engineer</b> • <b>Mobile Specialist</b> • <b>Network Architect</b>
 </p>
 
----
-
-### 💻 Capabilities
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Robust+Backend+Systems+(Node.js+%2F+Go);Cross-Platform+Mobile+(Flutter);Scalable+Web+Apps+(React+%2F+Next.js);IT+Infrastructure+%26+Cloud+Security" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/VUTEQ-IT_DEPT-007ACC?style=flat-square" />
+  <img src="https://img.shields.io/badge/BUILDING-WEB3_%26_SYSTEMS-34C759?style=flat-square" />
 </p>
 
 <br/>
 
-### 🛠️ Tech Stack Ecosystem
-<table align="center">
-  <tr>
-    <td align="center" width="300"><b>Development</b></td>
-    <td align="center" width="300"><b>Infrastructure</b></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=ts,nodejs,go,rust,python,flutter,react,nextjs&perline=4" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,postgres,mongodb,figma&perline=4" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### 📊 Engineering Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kicik-ireng&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=007ACC&icon_color=007ACC" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kicik-ireng&theme=react&hide_border=true&background=0D1117&stroke=007ACC&ring=007ACC&fire=007ACC" width="48%" />
+  <i>Specializing in high-performance Backend architecture, Cross-platform Flutter apps, <br/> and secure IT infrastructure. Bridging the gap between code and hardware.</i>
 </p>
 
 <br/>
 
-### 📦 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kicik-ireng&theme=react-dark&area=true&hide_border=true&color=007ACC&height=300" width="100%" />
+### 🛠️ Core Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,go,rust,python,flutter,react,nextjs,postgres,docker,aws,linux&perline=12" />
+</p>
 
 <br/>
 
-### 🌐 Transmission Gate
 <p align="center">
-<a href="mailto:wissagamma@vuteq.co.id">
-  <img src="https://img.shields.io/badge/Email-007ACC?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/YOUR_USER">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/kicik-ireng">
-  <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kicik-ireng&show_icons=true&theme=transparent&title_color=007ACC&icon_color=007ACC&text_color=B3B3B3&hide_border=true&include_all_commits=true" width="400" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kicik-ireng&theme=react-dark&area=true&hide_border=true&color=007ACC&height=150" width="800" />
+</p>
 
-<p align="center"><sub><i>Turning coffee into scalable systems. ☕</i></sub></p>
+<br/>
+
+<p align="center">
+  <a href="mailto:wissagamma@vuteq.co.id">Email</a> • 
+  <a href="https://linkedin.com/in/YOUR_USER">LinkedIn</a> • 
+  <a href="https://github.com/kicik-ireng">Repository</a>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=007ACC&height=2&section=footer" width="200" />
 
 </div>
