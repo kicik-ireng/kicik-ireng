@@ -1,11 +1,13 @@
 <p align="center">
-  <b style="font-family: 'Inter', sans-serif; font-size: 48px; font-weight: 900; letter-spacing: -2px; text-transform: uppercase; color: #FFFFFF;">
+  <b style="font-family: 'Inter', 'Segoe UI', sans-serif; font-size: 72px; font-weight: 1000; letter-spacing: -4px; text-transform: uppercase; color: #FFFFFF; line-height: 1;">
     WISSA GAMMA E.L<span style="color: #4A6CF7;">.</span>
   </b>
 </p>
 
-<p align="center" style="margin-top: -10px;">
-  <code style="font-size: 13px; letter-spacing: 2px; color: #8B949E;">FULLSTACK • MOBILE • NETWORK</code>
+<p align="center" style="margin-top: -15px;">
+  <code style="font-size: 14px; letter-spacing: 5px; color: #8B949E; text-transform: uppercase; opacity: 0.8;">
+    Fullstack • Mobile • Network
+  </code>
 </p>
 
 <br>
@@ -13,7 +15,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,nestjs,flutter,ts,nodejs,go&theme=dark" height="30" />
   <br>
-  <img src="https://skillicons.dev/icons?i=fortinet,proxmox,docker,postgres,linux,aws&theme=dark" height="30" />
+  <img src="https://skillicons.dev/icons?i=fortinet,proxmox,docker,postgres,linux,aws,nginx,redis&theme=dark" height="30" />
 </div>
 
 <br>
