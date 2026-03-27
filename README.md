@@ -1,25 +1,27 @@
 <p align="center">
-  <code style="font-family: 'Inter', 'Fira Code', monospace; font-size: 52px; font-weight: 300; letter-spacing: 18px; text-transform: uppercase; color: #FFFFFF;">
-    WISSA GAMMA E.L
-  </code>
+  <b style="font-family: 'Inter', sans-serif; font-size: 48px; font-weight: 900; letter-spacing: -2px; text-transform: uppercase; color: #FFFFFF;">
+    WISSA GAMMA E.L<span style="color: #4A6CF7;">.</span>
+  </b>
 </p>
 
-<p align="center">
-  <code>fullstack developer</code> <code>mobile developer</code> <code>network engineer</code>
+<p align="center" style="margin-top: -10px;">
+  <code style="font-size: 13px; letter-spacing: 2px; color: #8B949E;">FULLSTACK • MOBILE • NETWORK</code>
 </p>
 
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,flutter,react,nextjs,ts,nodejs,go,linux,nginx,aws,fortinet,proxmox,docker,postgres,mongodb,redis&theme=dark" height="32" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,flutter,ts,nodejs,go&theme=dark" height="30" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=fortinet,proxmox,docker,postgres,linux,aws&theme=dark" height="30" />
 </div>
 
 <br>
 <br>
 
 <p align="center">
-  <a href="mailto:wissagamma@vuteq.co.id"><code>email</code></a> 
-  <a href="https://github.com/kicik-ireng"><code>github</code></a>
+  <a href="mailto:wissagamma@vuteq.co.id" style="text-decoration: none;"><code>email</code></a> 
+  <a href="https://github.com/kicik-ireng" style="text-decoration: none;"><code>github</code></a>
 </p>
 
 <br>
