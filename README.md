@@ -1,37 +1,35 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1000&color=2D3748&center=true&vCenter=true&repeat=false&width=435&lines=WISSA+GAMMA+E.L" alt="Typing SVG" />
+  <code style="font-family: 'Fira Code', monospace; font-size: 28px; font-weight: 500; letter-spacing: -0.5px;">WISSA GAMMA E.L</code>
 </p>
 
 <p align="center">
-  <code>Full‑Stack Engineer & Mobile Architect</code><br>
-  <sub>architecting high‑performance ecosystems from backend to cross‑platform mobile</sub>
+  <code>fullstack developer</code> <code>mobile developer</code> <code>network engineer</code>
 </p>
 
 <br>
 
 <p align="center">
-  <code>▸ backend systems</code> <code>▸ mobile architecture</code> <code>▸ infrastructure</code> <code>▸ security</code>
-</p>
-
-<br>
-<br>
-
-<p align="center">
-  <b>// tech arsenal</b>
+  <sub>// core arsenal</sub>
 </p>
 
 <p align="center">
-  <code>TypeScript</code> <code>Node.js</code> <code>Go</code> <code>Rust</code> <code>Python</code><br>
-  <code>Flutter</code> <code>React</code> <code>Next.js</code> <code>Figma</code><br>
-  <code>PostgreSQL</code> <code>Docker</code> <code>AWS</code> <code>Linux</code> <code>Nginx</code>
+  <code>next.js</code> <code>nest.js</code> <code>flutter</code><br>
+  <code>fortinet</code> <code>proxmox</code> <code>docker</code> <code>postgres</code>
 </p>
 
-<br>
 <br>
 
 <p align="center">
-  <b>// metrics</b>
+  <sub>// extended stack</sub>
 </p>
+
+<p align="center">
+  <code>typescript</code> <code>node.js</code> <code>react</code> <code>go</code><br>
+  <code>linux</code> <code>nginx</code> <code>aws</code> <code>mongodb</code> <code>redis</code>
+</p>
+
+<br>
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kicik-ireng&show_icons=true&theme=transparent&title_color=2c3e44&icon_color=5a6e7a&text_color=5a6e7a&hide_border=true&include_all_commits=true&card_width=420" />
@@ -41,12 +39,11 @@
 
 <p align="center">
   <a href="mailto:wissagamma@vuteq.co.id"><code>email</code></a> 
-  <a href="https://linkedin.com/in/YOUR_USER"><code>linkedin</code></a> 
   <a href="https://github.com/kicik-ireng"><code>github</code></a>
 </p>
 
 <br>
 
 <p align="center">
-  <sub><kbd>$> optimizing latency, maximizing impact</kbd></sub>
+  <sub><kbd>$> build secure • ship fast • automate everything</kbd></sub>
 </p>
