@@ -14,7 +14,7 @@
 
 <p align="center">
   <img
-    src="https://avatars.githubusercontent.com/u/195588736?v=4"
+    src="[https://avatars.githubusercontent.com/u/195588736?v=4](https://chatgpt.com/backend-api/estuary/content?id=file_00000000ddec7207a5d3bb25c858725d&ts=495556&p=fs&cid=1&sig=568c375b01a4c82ad99a4b28d1152cf9d02fcfe4dc75b4b888b268798e5a0c7b&v=0)"
     width="160"
     style="border-radius:50%;border:4px solid #4A6CF7;"
     alt="Wissa Gamma"
