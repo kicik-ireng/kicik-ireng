@@ -6,8 +6,19 @@
 
 <p align="center" style="margin-top: -30px;">
   <span style="font-family: 'Inter', sans-serif; font-size: 10px; letter-spacing: 8px; color: #8B949E; text-transform: uppercase; font-weight: 500;">
-    &nbsp;Fullstack &nbsp;•&nbsp; Mobile &nbsp;•&nbsp; Network
+    Fullstack • Mobile Dev • Network
   </span>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://avatars.githubusercontent.com/u/195588736?v=4"
+    width="160"
+    style="border-radius:50%;border:4px solid #4A6CF7;"
+    alt="Wissa Gamma"
+  />
 </p>
 
 <br>
@@ -20,12 +31,13 @@
 <br>
 
 <p align="center">
-  <a href="mailto:wissagamma@vuteq.co.id" style="text-decoration: none;"><code>email</code></a> 
-  <a href="https://github.com/kicik-ireng" style="text-decoration: none;"><code>github</code></a>
+  <a href="mailto:wissagamma@vuteq.co.id"><code>email</code></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/kicik-ireng"><code>github</code></a>
 </p>
 
 <br>
 
 <p align="center">
-<sub><kbd>$> sudo make it work</kbd></sub>
+  <sub><kbd>$> sudo make it work</kbd></sub>
 </p>
