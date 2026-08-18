@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/log.png" alt="Wissa Gamma" width="170" />
+  <img src="./assets/log.png" alt="Wissa Gamma" width="400" />
 </p>
 
 <br>
