@@ -4,19 +4,13 @@
 
 </div>
 
-<br>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=3000&pause=1000&color=4A6CF7&center=true&vCenter=true&width=600&lines=Building+systems+that+scale.;API+%2F+Backend+%2F+Mobile+%2F+Network.;Turning+complex+problems+into+clean+solutions.;%24+sudo+make+it+work)](https://git.io/typing-svg)
 
 </div>
 
-<br>
-
 ---
-
-<br>
 
 ## `whoami`
 
@@ -28,8 +22,6 @@ const wissa = {
   based : "Indonesia 🇮🇩",
 };
 ```
-
-<br>
 
 ## `tech.stack`
 
@@ -53,11 +45,7 @@ const wissa = {
 
 </div>
 
-<br>
-
 ---
-
-<br>
 
 ## `portfolio.status`
 
@@ -71,11 +59,7 @@ const wissa = {
 
 </div>
 
-<br>
-
 ---
-
-<br>
 
 ## `github.stats`
 
@@ -84,21 +68,11 @@ const wissa = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kicik-ireng&theme=github_dark" height="150" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kicik-ireng&theme=github_dark" height="150" />
 
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=kicik-ireng&theme=github-dark-blue&hide_border=true&background=0D1117&ring=4A6CF7&fire=4A6CF7&currStreakLabel=4A6CF7" />
 
 </div>
 
-<br>
-
 ---
-
-<br>
 
 ## `contact`
 
@@ -110,16 +84,9 @@ const wissa = {
 
 </div>
 
-<br>
-
 ---
 
 <div align="center">
-
-<sub><kbd>$ sudo make it work</kbd></sub>
-
-<br><br>
-
+<sub><kbd>$ sudo make it work</kbd></sub><br>
 <img src="https://komarev.com/ghpvc/?username=kicik-ireng&style=flat-square&color=4A6CF7&label=PROFILE+VIEWS" />
-
 </div>
