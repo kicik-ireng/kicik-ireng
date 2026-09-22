@@ -1,11 +1,19 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 200" width="860" height="200">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 200" width="860" height="200">
 <style>
 @keyframes cl{0%{transform:translateX(920px)}100%{transform:translateX(-200px)}}
 @keyframes mr{
   0%   {transform:translate(-100px,0px)}
-  28%  {transform:translate(197px,0px);animation-timing-function:ease-out}
-  34%  {transform:translate(261px,-58px);animation-timing-function:ease-in}
-  42%  {transform:translate(348px,0px)}
+  12%  {transform:translate(40px,0px);animation-timing-function:ease-out}
+  16%  {transform:translate(84px,-40px);animation-timing-function:ease-in}
+  20%  {transform:translate(128px,0px)}
+  28%  {transform:translate(210px,0px);animation-timing-function:ease-out}
+  31%  {transform:translate(242px,-45px);animation-timing-function:ease-in}
+  34%  {transform:translate(260px,0px);animation-timing-function:ease-out}
+  37%  {transform:translate(285px,-45px);animation-timing-function:ease-in}
+  40%  {transform:translate(310px,0px)}
+  80%  {transform:translate(680px,0px);animation-timing-function:ease-out}
+  85%  {transform:translate(750px,-80px);animation-timing-function:ease-in}
+  90%  {transform:translate(810px,0px)}
   100% {transform:translate(960px,0px)}
 }
 @keyframes cn{0%,100%{transform:translateY(0)}50%{transform:translateY(-14px)}}
