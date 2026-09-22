@@ -1,21 +1,25 @@
-﻿<!-- HEADER BANNER -->
+﻿<!-- MARIO HEADER BANNER -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:001800,60:001800,100:000000&height=230&text=kicik-ireng&fontSize=58&fontColor=00FF41&fontAlignY=42&desc=%5BSYSTEM+ONLINE%5D+root%40github%3A~%23&descAlignY=63&descSize=15&descFontColor=33CC33&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1B1464,30:1B5BD6,70:3B82F6,100:5C94FC&height=220&text=kicik-ireng&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=%F0%9F%8D%84+Player+1+Ready+%F0%9F%8E%AE&descAlignY=62&descSize=18&descFontColor=FBD000&animation=fadeIn)
 
-</div>
-
-<!-- MATRIX GIF -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
 </div>
 
 <br>
 
-<!-- BOOT SEQUENCE -->
+<!-- MARIO GIFs SHOWCASE -->
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Mario Pixel Art" width="200" />
+  <img src="https://media.giphy.com/media/wGClLj17n8exifdelU/giphy.gif" alt="Mario Running" width="200" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Mario Bros" width="200" />
+</div>
+
+<br>
+
+<!-- TYPING SVG — PRESS START 2P -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2200&pause=700&color=00FF41&background=00000000&center=true&vCenter=true&width=700&height=40&lines=%5B+%2B%5D+Booting+system+kernel...;%5B+%2B%5D+Loading+network+interfaces...;%5B+%2B%5D+Spawning+secure+daemons...;%5B+%2B%5D+Establishing+encrypted+tunnel...;%5B+OK%5D+Access+granted.;%24+sudo+make+it+work+--force;Building+systems+that+never+break.;Backend+%7C+Mobile+%7C+Network+%7C+Cloud.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=12&duration=2500&pause=900&color=E8003D&background=00000000&center=true&vCenter=true&width=700&height=55&lines=It-s-a+me%21+Wissa%21;Player+1+has+entered+the+game!;Lives%3A+%E2%99%A5+%E2%99%A5+%E2%99%A5+%28%E2%88%9E%29;%2B1UP%3A+Code+deployed%21;The+bug+is+in+another+castle...;Press+START+to+collaborate%21)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,21 +27,24 @@
 
 ---
 
-## `$ whoami`
+## 🍄 `WORLD 1-1` · whoami
 
-```bash
-┌──(root㉿kicik-ireng)-[~]
-│
-├─ name    :  Wissa Gamma E.L.
-├─ role    :  Fullstack Dev  │  Mobile Dev  │  Network Engineer
-├─ stack   :  NestJS · Flutter · Next.js · Docker · Fortinet
-├─ based   :  Indonesia 🇮🇩
-└─ status  :  [██████████████░░] ONLINE
+```
+  ╔══════════════════════════════════════════════╗
+  ║            🎮   PLAYER  SELECT               ║
+  ╠══════════════════════════════════════════════╣
+  ║  NAME    :  Wissa Gamma E.L.                 ║
+  ║  CLASS   :  Fullstack · Mobile · NetEngineer ║
+  ║  WEAPON  :  NestJS · Flutter · Docker        ║
+  ║  WORLD   :  Indonesia  🇮🇩                   ║
+  ║  LIVES   :  ♥ ♥ ♥  (∞)                      ║
+  ║  STATUS  :  ▶  GAME  ON                      ║
+  ╚══════════════════════════════════════════════╝
 ```
 
 ---
 
-## `$ ls -la /tech/`
+## 🪙 `WORLD 1-2` · tech.stack
 
 <div align="center">
 
@@ -61,52 +68,52 @@
 
 ---
 
-## `$ cat portfolio.log`
+## 🏰 `WORLD 1-3` · portfolio.log
 
-```bash
-$ find /repos -not -empty -type f | head -n 5
-
-  drwxr-xr-x  🔌  REST API    NestJS · Express           [CLASSIFIED]
-  drwxr-xr-x  📱  Mobile      Flutter                    [CLASSIFIED]
-  drwxr-xr-x  🌐  Web         Next.js · React            [CLASSIFIED]
-  drwxr-xr-x  🛠️   Infra       Docker · AWS · Proxmox    [CLASSIFIED]
-  drwxr-xr-x  🔐  Network     Fortinet · Firewall · VPN  [CLASSIFIED]
-
-Permission denied: Most repos are private — production APIs & client systems.
+```
+  🗺️  WORLD MAP  —  REPOSITORY SELECT
+  ─────────────────────────────────────────────────────────
+  🏰  WORLD 1  →  REST API    NestJS · Express    [LOCKED]
+  🌊  WORLD 2  →  Mobile      Flutter             [LOCKED]
+  🌿  WORLD 3  →  Web Dev     Next.js · React     [LOCKED]
+  🌋  WORLD 4  →  DevOps      Docker · AWS        [LOCKED]
+  🏔️   WORLD 5  →  Network     Fortinet · VPN     [LOCKED]
+  ─────────────────────────────────────────────────────────
+  ⚠️  Most repos are private — production APIs & client systems.
 ```
 
 ---
 
-## `$ cat github.stats`
+## ⭐ `WORLD 1-4` · github.stats
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kicik-ireng&theme=github_dark" height="150" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kicik-ireng&theme=github_dark" height="150" />
 
-<img src="https://streak-stats.demolab.com?user=kicik-ireng&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=39FF14&currStreakLabel=00FF41" />
+<img src="https://streak-stats.demolab.com?user=kicik-ireng&theme=github-dark-blue&hide_border=true&background=0D1117&ring=E8003D&fire=FBD000&currStreakLabel=E8003D" />
 
 </div>
 
 ---
 
-## `$ ./connect.sh`
+## 🎮 `WORLD 1-5` · connect.sh
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-wissagamma%40vuteq.co.id-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:wissagamma@vuteq.co.id)
+[![Email](https://img.shields.io/badge/Email-wissagamma%40vuteq.co.id-E8003D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wissagamma@vuteq.co.id)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-kicik--ireng-161B22?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/kicik-ireng)
+[![GitHub](https://img.shields.io/badge/GitHub-kicik--ireng-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kicik-ireng)
 
 </div>
 
 ---
 
-<!-- FOOTER BANNER -->
+<!-- MARIO FOOTER BANNER -->
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001800&height=130&section=footer&text=%24+sudo+make+it+work&fontSize=18&fontColor=00FF41&fontAlignY=65&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:5C94FC,100:1B1464&height=130&section=footer&text=%F0%9F%8F%86+GAME+CLEAR%21&fontSize=25&fontColor=FBD000&fontAlignY=65&animation=fadeIn)
 
-<img src="https://komarev.com/ghpvc/?username=kicik-ireng&style=flat-square&color=00FF41&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=kicik-ireng&style=flat-square&color=E8003D&label=PLAYERS" />
 
 </div>
