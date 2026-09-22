@@ -1,18 +1,28 @@
 ﻿<div align="center">
-
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
+</div>
 
+<div align="center">
+<img src="./assets/mario_mushroom.jpg" width="72" title="Super Mushroom" />
+<img src="./assets/mario_star.jpg" width="72" title="Super Star" />
+<img src="./assets/mario_coin.jpg" width="72" title="Coin" />
+<img src="./assets/mario_question_block.jpg" width="72" title="? Block" />
+<img src="./assets/mario_pipe.jpg" width="72" title="Warp Pipe" />
+<img src="./assets/mario_jumping.jpg" width="72" title="Mario" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=3000&pause=1000&color=4A6CF7&center=true&vCenter=true&width=600&lines=Building+systems+that+scale.;API+%2F+Backend+%2F+Mobile+%2F+Network.;Turning+complex+problems+into+clean+solutions.;%24+sudo+make+it+work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=11&duration=2800&pause=900&color=E8003D&center=true&vCenter=true&width=620&height=45&lines=It-s-a+me%21+Wissa%21;Player+1+has+entered+the+game%21;Lives%3A+%E2%99%A5+%E2%99%A5+%E2%99%A5;%2B1UP%3A+Code+deployed%21;The+bug+is+in+another+castle...)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 ## `whoami`
+
+<table><tr>
+<td>
 
 ```ts
 const wissa = {
@@ -22,6 +32,13 @@ const wissa = {
   based : "Indonesia 🇮🇩",
 };
 ```
+
+</td>
+<td align="center" width="130">
+<img src="./assets/mario_jumping.jpg" width="115" title="Mario" /><br>
+<sub><b>Player 1</b></sub>
+</td>
+</tr></table>
 
 ## `tech.stack`
 
@@ -64,12 +81,9 @@ const wissa = {
 ## `github.stats`
 
 <div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kicik-ireng&theme=github_dark" height="150" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kicik-ireng&theme=github_dark" height="150" />
-
-<img src="https://streak-stats.demolab.com?user=kicik-ireng&theme=github-dark-blue&hide_border=true&background=0D1117&ring=4A6CF7&fire=4A6CF7&currStreakLabel=4A6CF7" />
-
+<img src="https://streak-stats.demolab.com?user=kicik-ireng&theme=github-dark-blue&hide_border=true&background=0D1117&ring=E8003D&fire=FBD000&currStreakLabel=E8003D" />
 </div>
 
 ---
@@ -78,7 +92,7 @@ const wissa = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-wissagamma%40vuteq.co.id-4A6CF7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wissagamma@vuteq.co.id)
+[![Email](https://img.shields.io/badge/Email-wissagamma%40vuteq.co.id-E8003D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wissagamma@vuteq.co.id)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-kicik--ireng-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kicik-ireng)
 
@@ -87,6 +101,12 @@ const wissa = {
 ---
 
 <div align="center">
-<sub><kbd>$ sudo make it work</kbd></sub><br>
-<img src="https://komarev.com/ghpvc/?username=kicik-ireng&style=flat-square&color=4A6CF7&label=PROFILE+VIEWS" />
+<img src="./assets/mario_mushroom.jpg" width="28" />
+<img src="./assets/mario_coin.jpg" width="28" />
+<img src="./assets/mario_star.jpg" width="28" />
+<sub><kbd>$ sudo make it work</kbd></sub>
+<img src="./assets/mario_star.jpg" width="28" />
+<img src="./assets/mario_coin.jpg" width="28" />
+<img src="./assets/mario_mushroom.jpg" width="28" /><br>
+<img src="https://komarev.com/ghpvc/?username=kicik-ireng&style=flat-square&color=E8003D&label=PLAYERS" />
 </div>
