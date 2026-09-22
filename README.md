@@ -1,3 +1,11 @@
+﻿<!-- Matrix Header Banner -->
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=200&section=header&text=kicik-ireng&fontSize=50&fontColor=00FF41&fontAlignY=38&desc=Building%20systems%20that%20scale&descAlignY=60&descSize=16&descFontColor=39FF14&animation=twinkling)
+
+</div>
+
+<!-- Matrix Rain GIF -->
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
@@ -6,7 +14,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=3000&pause=1000&color=4A6CF7&center=true&vCenter=true&width=600&lines=Building+systems+that+scale.;API+%2F+Backend+%2F+Mobile+%2F+Network.;Turning+complex+problems+into+clean+solutions.;%24+sudo+make+it+work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Building+systems+that+scale.;API+%2F+Backend+%2F+Mobile+%2F+Network.;Turning+complex+problems+into+clean+solutions.;%24+sudo+make+it+work;%5B+%2B%5D+Initializing+systems...;%5B+%2B%5D+Connection+established.;%5B+%2B%5D+Access+granted.)](https://git.io/typing-svg)
 
 </div>
 
@@ -68,7 +76,7 @@ const wissa = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kicik-ireng&theme=github_dark" height="150" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kicik-ireng&theme=github_dark" height="150" />
 
-<img src="https://streak-stats.demolab.com?user=kicik-ireng&theme=github-dark-blue&hide_border=true&background=0D1117&ring=4A6CF7&fire=4A6CF7&currStreakLabel=4A6CF7" />
+<img src="https://streak-stats.demolab.com?user=kicik-ireng&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=39FF14&currStreakLabel=00FF41" />
 
 </div>
 
@@ -78,15 +86,19 @@ const wissa = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-wissagamma%40vuteq.co.id-4A6CF7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wissagamma@vuteq.co.id)
+[![Email](https://img.shields.io/badge/Email-wissagamma%40vuteq.co.id-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:wissagamma@vuteq.co.id)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-kicik--ireng-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kicik-ireng)
+[![GitHub](https://img.shields.io/badge/GitHub-kicik--ireng-161B22?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/kicik-ireng)
 
 </div>
 
 ---
 
+<!-- Matrix Footer Banner -->
 <div align="center">
-<sub><kbd>$ sudo make it work</kbd></sub><br>
-<img src="https://komarev.com/ghpvc/?username=kicik-ireng&style=flat-square&color=4A6CF7&label=PROFILE+VIEWS" />
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:000000&height=120&section=footer&text=%24+sudo+make+it+work&fontSize=18&fontColor=00FF41&fontAlignY=65&animation=twinkling)
+
+<img src="https://komarev.com/ghpvc/?username=kicik-ireng&style=flat-square&color=00FF41&label=PROFILE+VIEWS" />
+
 </div>
