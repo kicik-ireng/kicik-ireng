@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.jpg" alt="Wissa Gamma E.L." width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
 
 </div>
 
@@ -101,9 +101,9 @@ const wissa = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kicik-ireng&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4A6CF7&icon_color=4A6CF7&text_color=8B949E&count_private=true" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kicik-ireng&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4A6CF7&icon_color=4A6CF7&text_color=8B949E&count_private=true" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kicik-ireng&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4A6CF7&text_color=8B949E&langs_count=6" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kicik-ireng&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4A6CF7&text_color=8B949E&langs_count=6" />
 
 </div>
 
@@ -111,7 +111,7 @@ const wissa = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kicik-ireng&theme=github-dark-blue&hide_border=true&background=0D1117&ring=4A6CF7&fire=4A6CF7&currStreakLabel=4A6CF7" />
+<img src="https://streak-stats.demolab.com?user=kicik-ireng&theme=github-dark-blue&hide_border=true&background=0D1117&ring=4A6CF7&fire=4A6CF7&currStreakLabel=4A6CF7" />
 
 </div>
 
