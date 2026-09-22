@@ -1,7 +1,13 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 200" width="860" height="200">
 <style>
 @keyframes cl{0%{transform:translateX(920px)}100%{transform:translateX(-200px)}}
-@keyframes mr{from{transform:translateX(-100px)}to{transform:translateX(960px)}}
+@keyframes mr{
+  0%   {transform:translate(-100px,0px)}
+  28%  {transform:translate(197px,0px);animation-timing-function:ease-out}
+  34%  {transform:translate(261px,-58px);animation-timing-function:ease-in}
+  42%  {transform:translate(348px,0px)}
+  100% {transform:translate(960px,0px)}
+}
 @keyframes cn{0%,100%{transform:translateY(0)}50%{transform:translateY(-14px)}}
 @keyframes qb{0%,84%{fill:#E89800}87%,97%{fill:#FFE050}100%{fill:#E89800}}
 @keyframes gm{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
