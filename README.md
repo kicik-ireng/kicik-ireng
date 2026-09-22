@@ -1,50 +1,29 @@
-﻿<!-- MARIO HEADER BANNER -->
-<div align="center">
+﻿<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1B1464,30:1B5BD6,70:3B82F6,100:5C94FC&height=220&text=kicik-ireng&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=%F0%9F%8D%84+Player+1+Ready+%F0%9F%8E%AE&descAlignY=62&descSize=18&descFontColor=FBD000&animation=fadeIn)
-
-</div>
-
-<br>
-
-<!-- MARIO GIFs SHOWCASE -->
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Mario Pixel Art" width="200" />
-  <img src="https://media.giphy.com/media/wGClLj17n8exifdelU/giphy.gif" alt="Mario Running" width="200" />
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Mario Bros" width="200" />
-</div>
-
-<br>
-
-<!-- TYPING SVG — PRESS START 2P -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=12&duration=2500&pause=900&color=E8003D&background=00000000&center=true&vCenter=true&width=700&height=55&lines=It-s-a+me%21+Wissa%21;Player+1+has+entered+the+game!;Lives%3A+%E2%99%A5+%E2%99%A5+%E2%99%A5+%28%E2%88%9E%29;%2B1UP%3A+Code+deployed%21;The+bug+is+in+another+castle...;Press+START+to+collaborate%21)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
 
 </div>
 
-<br>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=3000&pause=1000&color=4A6CF7&center=true&vCenter=true&width=600&lines=Building+systems+that+scale.;API+%2F+Backend+%2F+Mobile+%2F+Network.;Turning+complex+problems+into+clean+solutions.;%24+sudo+make+it+work)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🍄 `WORLD 1-1` · whoami
+## `whoami`
 
-```
-  ╔══════════════════════════════════════════════╗
-  ║            🎮   PLAYER  SELECT               ║
-  ╠══════════════════════════════════════════════╣
-  ║  NAME    :  Wissa Gamma E.L.                 ║
-  ║  CLASS   :  Fullstack · Mobile · NetEngineer ║
-  ║  WEAPON  :  NestJS · Flutter · Docker        ║
-  ║  WORLD   :  Indonesia  🇮🇩                   ║
-  ║  LIVES   :  ♥ ♥ ♥  (∞)                      ║
-  ║  STATUS  :  ▶  GAME  ON                      ║
-  ╚══════════════════════════════════════════════╝
+```ts
+const wissa = {
+  name  : "Wissa Gamma E.L.",
+  role  : ["Fullstack Dev", "Mobile Dev", "Network Engineer"],
+  stack : "NestJS · Flutter · Next.js · Docker · Fortinet",
+  based : "Indonesia 🇮🇩",
+};
 ```
 
----
-
-## 🪙 `WORLD 1-2` · tech.stack
+## `tech.stack`
 
 <div align="center">
 
@@ -68,40 +47,38 @@
 
 ---
 
-## 🏰 `WORLD 1-3` · portfolio.log
+## `portfolio.status`
 
-```
-  🗺️  WORLD MAP  —  REPOSITORY SELECT
-  ─────────────────────────────────────────────────────────
-  🏰  WORLD 1  →  REST API    NestJS · Express    [LOCKED]
-  🌊  WORLD 2  →  Mobile      Flutter             [LOCKED]
-  🌿  WORLD 3  →  Web Dev     Next.js · React     [LOCKED]
-  🌋  WORLD 4  →  DevOps      Docker · AWS        [LOCKED]
-  🏔️   WORLD 5  →  Network     Fortinet · VPN     [LOCKED]
-  ─────────────────────────────────────────────────────────
-  ⚠️  Most repos are private — production APIs & client systems.
-```
+> Most repos are **private** — production systems, client APIs & internal tooling.
+
+<div align="center">
+
+| 🔌 REST API | 📱 Mobile | 🌐 Web | 🛠️ Infra | 🔐 Network |
+|---|---|---|---|---|
+| NestJS · Express | Flutter | Next.js · React | Docker · AWS | Firewall · VPN |
+
+</div>
 
 ---
 
-## ⭐ `WORLD 1-4` · github.stats
+## `github.stats`
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kicik-ireng&theme=github_dark" height="150" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kicik-ireng&theme=github_dark" height="150" />
 
-<img src="https://streak-stats.demolab.com?user=kicik-ireng&theme=github-dark-blue&hide_border=true&background=0D1117&ring=E8003D&fire=FBD000&currStreakLabel=E8003D" />
+<img src="https://streak-stats.demolab.com?user=kicik-ireng&theme=github-dark-blue&hide_border=true&background=0D1117&ring=4A6CF7&fire=4A6CF7&currStreakLabel=4A6CF7" />
 
 </div>
 
 ---
 
-## 🎮 `WORLD 1-5` · connect.sh
+## `contact`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-wissagamma%40vuteq.co.id-E8003D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wissagamma@vuteq.co.id)
+[![Email](https://img.shields.io/badge/Email-wissagamma%40vuteq.co.id-4A6CF7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wissagamma@vuteq.co.id)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-kicik--ireng-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kicik-ireng)
 
@@ -109,11 +86,7 @@
 
 ---
 
-<!-- MARIO FOOTER BANNER -->
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:5C94FC,100:1B1464&height=130&section=footer&text=%F0%9F%8F%86+GAME+CLEAR%21&fontSize=25&fontColor=FBD000&fontAlignY=65&animation=fadeIn)
-
-<img src="https://komarev.com/ghpvc/?username=kicik-ireng&style=flat-square&color=E8003D&label=PLAYERS" />
-
+<sub><kbd>$ sudo make it work</kbd></sub><br>
+<img src="https://komarev.com/ghpvc/?username=kicik-ireng&style=flat-square&color=4A6CF7&label=PROFILE+VIEWS" />
 </div>
