@@ -1,37 +1,43 @@
-﻿<!-- Matrix Header Banner -->
+﻿<!-- HEADER BANNER -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=200&section=header&text=kicik-ireng&fontSize=50&fontColor=00FF41&fontAlignY=38&desc=Building%20systems%20that%20scale&descAlignY=60&descSize=16&descFontColor=39FF14&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:001800,60:001800,100:000000&height=230&text=kicik-ireng&fontSize=58&fontColor=00FF41&fontAlignY=42&desc=%5BSYSTEM+ONLINE%5D+root%40github%3A~%23&descAlignY=63&descSize=15&descFontColor=33CC33&animation=twinkling)
 
 </div>
 
-<!-- Matrix Rain GIF -->
+<!-- MATRIX GIF -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
+</div>
+
+<br>
+
+<!-- BOOT SEQUENCE -->
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2200&pause=700&color=00FF41&background=00000000&center=true&vCenter=true&width=700&height=40&lines=%5B+%2B%5D+Booting+system+kernel...;%5B+%2B%5D+Loading+network+interfaces...;%5B+%2B%5D+Spawning+secure+daemons...;%5B+%2B%5D+Establishing+encrypted+tunnel...;%5B+OK%5D+Access+granted.;%24+sudo+make+it+work+--force;Building+systems+that+never+break.;Backend+%7C+Mobile+%7C+Network+%7C+Cloud.)](https://git.io/typing-svg)
 
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Building+systems+that+scale.;API+%2F+Backend+%2F+Mobile+%2F+Network.;Turning+complex+problems+into+clean+solutions.;%24+sudo+make+it+work;%5B+%2B%5D+Initializing+systems...;%5B+%2B%5D+Connection+established.;%5B+%2B%5D+Access+granted.)](https://git.io/typing-svg)
-
-</div>
+<br>
 
 ---
 
-## `whoami`
+## `$ whoami`
 
-```ts
-const wissa = {
-  name  : "Wissa Gamma E.L.",
-  role  : ["Fullstack Dev", "Mobile Dev", "Network Engineer"],
-  stack : "NestJS · Flutter · Next.js · Docker · Fortinet",
-  based : "Indonesia 🇮🇩",
-};
+```bash
+┌──(root㉿kicik-ireng)-[~]
+│
+├─ name    :  Wissa Gamma E.L.
+├─ role    :  Fullstack Dev  │  Mobile Dev  │  Network Engineer
+├─ stack   :  NestJS · Flutter · Next.js · Docker · Fortinet
+├─ based   :  Indonesia 🇮🇩
+└─ status  :  [██████████████░░] ONLINE
 ```
 
-## `tech.stack`
+---
+
+## `$ ls -la /tech/`
 
 <div align="center">
 
@@ -55,21 +61,23 @@ const wissa = {
 
 ---
 
-## `portfolio.status`
+## `$ cat portfolio.log`
 
-> Most repos are **private** — production systems, client APIs & internal tooling.
+```bash
+$ find /repos -not -empty -type f | head -n 5
 
-<div align="center">
+  drwxr-xr-x  🔌  REST API    NestJS · Express           [CLASSIFIED]
+  drwxr-xr-x  📱  Mobile      Flutter                    [CLASSIFIED]
+  drwxr-xr-x  🌐  Web         Next.js · React            [CLASSIFIED]
+  drwxr-xr-x  🛠️   Infra       Docker · AWS · Proxmox    [CLASSIFIED]
+  drwxr-xr-x  🔐  Network     Fortinet · Firewall · VPN  [CLASSIFIED]
 
-| 🔌 REST API | 📱 Mobile | 🌐 Web | 🛠️ Infra | 🔐 Network |
-|---|---|---|---|---|
-| NestJS · Express | Flutter | Next.js · React | Docker · AWS | Firewall · VPN |
-
-</div>
+Permission denied: Most repos are private — production APIs & client systems.
+```
 
 ---
 
-## `github.stats`
+## `$ cat github.stats`
 
 <div align="center">
 
@@ -82,7 +90,7 @@ const wissa = {
 
 ---
 
-## `contact`
+## `$ ./connect.sh`
 
 <div align="center">
 
@@ -94,10 +102,10 @@ const wissa = {
 
 ---
 
-<!-- Matrix Footer Banner -->
+<!-- FOOTER BANNER -->
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:000000&height=120&section=footer&text=%24+sudo+make+it+work&fontSize=18&fontColor=00FF41&fontAlignY=65&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001800&height=130&section=footer&text=%24+sudo+make+it+work&fontSize=18&fontColor=00FF41&fontAlignY=65&animation=twinkling)
 
 <img src="https://komarev.com/ghpvc/?username=kicik-ireng&style=flat-square&color=00FF41&label=PROFILE+VIEWS" />
 
