@@ -12,6 +12,8 @@
 
 ---
 
+<div align="center">
+
 ## `whoami`
 
 <table><tr>
@@ -32,6 +34,8 @@ const wissa = {
 <sub><b>Player 1</b></sub>
 </td>
 </tr></table>
+
+</div>
 
 ## `tech.stack`
 
