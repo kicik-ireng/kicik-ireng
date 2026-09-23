@@ -10,49 +10,66 @@ if not os.path.exists(font_path):
         urllib.request.urlretrieve(font_url, font_path)
     except Exception as e:
         print(f"Failed to download font: {e}")
-        # fallback to a default font
-        font_path = "arial.ttf"
 
-def create_text_image(text_lines, filename, font_size=20, color="#FBD000", width=400, height=80, bg_color=None):
-    img = Image.new('RGBA', (width, height), bg_color or (0,0,0,0))
-    d = ImageDraw.Draw(img)
+def create_mario_banner(text_lines, filename, font_size=16, text_color="#FFFFFF", bg_color="#000000", border_color="#FFFFFF", width=600, height=None, border_width=6, padding=30):
     try:
         font = ImageFont.truetype(font_path, font_size)
     except IOError:
         font = ImageFont.load_default()
     
-    # Calculate total height of text block
-    total_height = len(text_lines) * font_size * 1.5
-    y = (height - total_height) / 2
+    # Calculate height if not provided
+    if height is None:
+        height = padding * 2 + (len(text_lines) * font_size * 1.5)
+    
+    # Create image
+    img = Image.new('RGBA', (width, int(height)), (0,0,0,0))
+    d = ImageDraw.Draw(img)
+    
+    # Draw Mario-style UI Box
+    
+    # 1. Outer shadow/dark border (optional, let's keep it simple with 1 outer border)
+    d.rectangle([(0, 0), (width-1, int(height)-1)], fill="#000000") # Base black outline
+    
+    # 2. Main border (White)
+    d.rectangle([(2, 2), (width-3, int(height)-3)], fill=border_color)
+    
+    # 3. Inner shadow/dark border (creates depth)
+    d.rectangle([(border_width+2, border_width+2), (width-3-border_width, int(height)-3-border_width)], fill="#000000")
+    
+    # 4. Background color
+    d.rectangle([(border_width+4, border_width+4), (width-5-border_width, int(height)-5-border_width)], fill=bg_color)
+    
+    # 5. Corner "screws" (classic 8-bit UI detail)
+    cs = 4 # corner size
+    b = border_width + 4 # background start
+    d.rectangle([(b+cs, b+cs), (b+cs+3, b+cs+3)], fill=border_color) # Top-left
+    d.rectangle([(width-b-cs-4, b+cs), (width-b-cs-1, b+cs+3)], fill=border_color) # Top-right
+    d.rectangle([(b+cs, int(height)-b-cs-4), (b+cs+3, int(height)-b-cs-1)], fill=border_color) # Bottom-left
+    d.rectangle([(width-b-cs-4, int(height)-b-cs-4), (width-b-cs-1, int(height)-b-cs-1)], fill=border_color) # Bottom-right
+
+    # Draw text
+    total_text_height = len(text_lines) * font_size * 1.5
+    y = (int(height) - total_text_height) / 2
     
     for line in text_lines:
         bbox = d.textbbox((0,0), line, font=font)
-        text_width = bbox[2] - bbox[0]
-        x = (width - text_width) / 2
-        d.text((x, y), line, fill=color, font=font)
+        text_w = bbox[2] - bbox[0]
+        x = (width - text_w) / 2
+        d.text((x, y), line, fill=text_color, font=font)
         y += font_size * 1.5
-
+        
+    os.makedirs('assets', exist_ok=True)
     img.save(os.path.join('assets', filename))
     print(f"Generated {filename}")
 
-os.makedirs('assets', exist_ok=True)
+# Headings (Red bg, white border, yellow text)
+create_mario_banner(["WHOAMI", "PLAYER INFO"], "head_whoami.png", font_size=20, text_color="#FBD000", bg_color="#E8003D", width=500, height=90)
+create_mario_banner(["TECH STACK", "POWER UPS"], "head_techstack.png", font_size=20, text_color="#FBD000", bg_color="#E8003D", width=500, height=90)
+create_mario_banner(["PORTFOLIO", "LEVELS UNLOCKED"], "head_portfolio.png", font_size=20, text_color="#FBD000", bg_color="#E8003D", width=600, height=90)
+create_mario_banner(["GITHUB STATS", "HIGH SCORES"], "head_github.png", font_size=20, text_color="#FBD000", bg_color="#E8003D", width=550, height=90)
+create_mario_banner(["CONTACT", "MULTIPLAYER"], "head_contact.png", font_size=20, text_color="#FBD000", bg_color="#E8003D", width=500, height=90)
 
-# Intro
-intro_lines = [
-    "It's-a me, Wissa!",
-    "Player 1 has entered!",
-    "Press START to collaborate!"
-]
-create_text_image(intro_lines, "intro.png", font_size=14, color="#E8003D", width=600, height=80)
-
-# Headings
-create_text_image(["WHOAMI", "PLAYER INFO"], "head_whoami.png", font_size=20, color="#FBD000", width=400, height=70)
-create_text_image(["TECH STACK", "POWER UPS"], "head_techstack.png", font_size=20, color="#FBD000", width=400, height=70)
-create_text_image(["PORTFOLIO", "LEVELS UNLOCKED"], "head_portfolio.png", font_size=20, color="#FBD000", width=500, height=70)
-create_text_image(["GITHUB STATS", "HIGH SCORES"], "head_github.png", font_size=20, color="#FBD000", width=500, height=70)
-create_text_image(["CONTACT", "MULTIPLAYER"], "head_contact.png", font_size=20, color="#FBD000", width=400, height=70)
-
-# Info Blocks
+# Info blocks (Black bg, white text)
 whoami_lines = [
     "NAME: Wissa Gamma E.L.",
     "ROLES: Fullstack, Mobile, NetEng",
@@ -60,10 +77,7 @@ whoami_lines = [
     "BASED: Indonesia",
     "STATUS: Ready for Action!"
 ]
-create_text_image(whoami_lines, "info_whoami.png", font_size=14, color="#FFFFFF", width=550, height=140)
-
-portfolio_warn = ["WARNING: Most repos are PRIVATE", "Contains: Production APIs, internal tooling"]
-create_text_image(portfolio_warn, "info_portfolio_warn.png", font_size=12, color="#E8003D", width=800, height=50)
+create_mario_banner(whoami_lines, "info_whoami.png", font_size=16, text_color="#FFFFFF", bg_color="#000000", width=700)
 
 portfolio_lines = [
     "[ REST API ] NestJS, Express",
@@ -72,8 +86,16 @@ portfolio_lines = [
     "[ INFRA ] Docker, AWS",
     "[ NETWORK ] Firewall, VPN"
 ]
-create_text_image(portfolio_lines, "info_portfolio.png", font_size=14, color="#FFFFFF", width=800, height=150)
+create_mario_banner(portfolio_lines, "info_portfolio.png", font_size=16, text_color="#FFFFFF", bg_color="#000000", width=800)
 
-# Extras
-create_text_image(["PLAYER 1"], "player1.png", font_size=12, color="#E8003D", width=130, height=30)
-create_text_image(["> sudo make it work", "INSERT COIN"], "footer_sudo.png", font_size=16, color="#E8003D", width=400, height=60)
+portfolio_warn = ["WARNING: Most repos are PRIVATE", "Contains: Production APIs, internal tooling"]
+create_mario_banner(portfolio_warn, "info_portfolio_warn.png", font_size=12, text_color="#FFFFFF", bg_color="#E8003D", width=750, height=60)
+
+# Intro & Footer
+intro_lines = ["It's-a me, Wissa!", "Player 1 has entered!", "Press START to collaborate!"]
+create_mario_banner(intro_lines, "intro.png", font_size=16, text_color="#FBD000", bg_color="#E8003D", width=700)
+
+create_mario_banner(["> sudo make it work", "INSERT COIN"], "footer_sudo.png", font_size=18, text_color="#FFFFFF", bg_color="#000000", width=600)
+
+# Small labels
+create_mario_banner(["PLAYER 1"], "player1.png", font_size=12, text_color="#FBD000", bg_color="#E8003D", border_width=4, padding=10, width=150)
