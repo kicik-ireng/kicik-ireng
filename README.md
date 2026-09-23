@@ -6,8 +6,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 </div>
 
+<br />
+
 <div align="center">
   <img src="./assets/intro.png" />
+  <br /><br />
+  <img src="https://media.tenor.com/PZtGqW3mQzUAAAAi/mario-mushroom.gif" width="50" />
 </div>
 
 <br />
@@ -25,11 +29,17 @@
         <img src="./assets/info_whoami.png" />
       </td>
       <td align="center" width="150" style="border: none;">
-        <img src="./assets/mario_jumping.jpg" width="115" title="Mario" /><br>
+        <img src="https://media.tenor.com/1-7C4E_992EAAAAi/mario-walking.gif" width="60" title="Mario" /><br>
         <img src="./assets/player1.png" />
       </td>
     </tr>
   </table>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://media.tenor.com/eBw1YvM-NlQAAAAi/mario-star.gif" width="50" />
 </div>
 
 <br />
@@ -63,6 +73,12 @@
 <br />
 
 <div align="center">
+  <img src="https://media.tenor.com/5V84-0Q7jN8AAAAi/piranha-plant-mario.gif" width="70" />
+</div>
+
+<br />
+
+<div align="center">
   <img src="./assets/head_portfolio.png" alt="portfolio" />
 </div>
 
@@ -79,6 +95,12 @@
 <br />
 
 <div align="center">
+  <img src="https://media.tenor.com/D4J8f9eFj5cAAAAi/yoshi-run.gif" width="80" />
+</div>
+
+<br />
+
+<div align="center">
   <img src="./assets/head_github.png" alt="github stats" />
 </div>
 
@@ -88,6 +110,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kicik-ireng&theme=github_dark" height="150" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kicik-ireng&theme=github_dark" height="150" />
   <img src="https://streak-stats.demolab.com?user=kicik-ireng&theme=github-dark-blue&hide_border=true&background=0D1117&ring=E8003D&fire=FBD000&currStreakLabel=E8003D" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./assets/mario_pipe.jpg" width="60" />
 </div>
 
 <br />
@@ -109,15 +137,13 @@
 <br />
 
 <div align="center">
-  <img src="./assets/mario_mushroom.jpg" width="26" />
-  <img src="./assets/mario_coin.jpg" width="26" />
-  <img src="./assets/mario_star.jpg" width="26" />
+  <img src="https://media.tenor.com/PZtGqW3mQzUAAAAi/mario-mushroom.gif" width="30" />
+  <img src="https://media.tenor.com/eBw1YvM-NlQAAAAi/mario-star.gif" width="30" />
   &nbsp;&nbsp;
   <img src="./assets/footer_sudo.png" />
   &nbsp;&nbsp;
-  <img src="./assets/mario_star.jpg" width="26" />
-  <img src="./assets/mario_coin.jpg" width="26" />
-  <img src="./assets/mario_mushroom.jpg" width="26" />
+  <img src="https://media.tenor.com/eBw1YvM-NlQAAAAi/mario-star.gif" width="30" />
+  <img src="https://media.tenor.com/PZtGqW3mQzUAAAAi/mario-mushroom.gif" width="30" />
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=kicik-ireng&style=flat-square&color=E8003D&label=PLAYERS" />
 </div>
