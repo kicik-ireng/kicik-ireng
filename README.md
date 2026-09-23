@@ -7,33 +7,31 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=11&duration=2500&pause=800&color=E8003D&center=true&vCenter=true&width=720&height=45&lines=It-s-a+me%21+Wissa%21;Player+1+has+entered%21;%2B1UP%3A+Code+deployed%21;The+bug+is+in+another+castle...;Press+START+to+collaborate%21" />
-  </a>
+  <img src="./assets/intro.png" />
 </div>
 
----
+<br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=20&duration=4000&pause=1000&color=FBD000&center=true&vCenter=true&width=400&height=60&lines=WHOAMI;PLAYER+INFO" alt="whoami" />
+  <img src="./assets/head_whoami.png" alt="whoami" />
 </div>
 
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
       <td align="center" style="border: none;">
-        <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=14&duration=2500&pause=1000&color=FFFFFF&width=450&height=120&lines=NAME:+Wissa+Gamma+E.L.;ROLES:+Fullstack,+Mobile,+NetEng;STACK:+NestJS,+Next.js,+Flutter;BASED:+Indonesia;STATUS:+Ready+for+Action!" />
+        <img src="./assets/info_whoami.png" />
       </td>
       <td align="center" width="150" style="border: none;">
         <img src="./assets/mario_jumping.jpg" width="115" title="Mario" /><br>
-        <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=10&duration=3000&pause=1000&color=E8003D&center=true&width=130&height=30&lines=PLAYER+1;P1" />
+        <img src="./assets/player1.png" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=20&duration=4000&pause=1000&color=FBD000&center=true&vCenter=true&width=400&height=60&lines=TECH+STACK;POWER+UPS" alt="tech stack" />
+  <img src="./assets/head_techstack.png" alt="tech stack" />
 </div>
 
 <div align="center">
@@ -56,24 +54,24 @@
 
 </div>
 
----
+<br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=20&duration=4000&pause=1000&color=FBD000&center=true&vCenter=true&width=500&height=60&lines=PORTFOLIO;LEVELS+UNLOCKED" alt="portfolio" />
+  <img src="./assets/head_portfolio.png" alt="portfolio" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=10&duration=5000&pause=2000&color=E8003D&center=true&vCenter=true&width=800&height=30&lines=WARNING:+Most+repos+are+PRIVATE;Contains:+Production+systems,+APIs,+internal+tooling" />
+  <img src="./assets/info_portfolio_warn.png" />
   
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=14&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=[+REST+API+]+NestJS+·+Express;[+MOBILE+]+Flutter;[+WEB+]+Next.js+·+React;[+INFRA+]+Docker+·+AWS;[+NETWORK+]+Firewall+·+VPN" />
+  <img src="./assets/info_portfolio.png" />
 </div>
 
----
+<br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=20&duration=4000&pause=1000&color=FBD000&center=true&vCenter=true&width=500&height=60&lines=GITHUB+STATS;HIGH+SCORES" alt="github stats" />
+  <img src="./assets/head_github.png" alt="github stats" />
 </div>
 
 <div align="center">
@@ -82,10 +80,10 @@
   <img src="https://streak-stats.demolab.com?user=kicik-ireng&theme=github-dark-blue&hide_border=true&background=0D1117&ring=E8003D&fire=FBD000&currStreakLabel=E8003D" />
 </div>
 
----
+<br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=20&duration=4000&pause=1000&color=FBD000&center=true&vCenter=true&width=400&height=60&lines=CONTACT;MULTIPLAYER" alt="contact" />
+  <img src="./assets/head_contact.png" alt="contact" />
 </div>
 
 <div align="center">
@@ -96,14 +94,14 @@
 
 </div>
 
----
+<br />
 
 <div align="center">
   <img src="./assets/mario_mushroom.jpg" width="26" />
   <img src="./assets/mario_coin.jpg" width="26" />
   <img src="./assets/mario_star.jpg" width="26" />
   &nbsp;&nbsp;
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&size=14&duration=3000&pause=1000&color=E8003D&center=true&vCenter=true&width=300&height=30&lines=>+sudo+make+it+work;GAME+OVER;INSERT+COIN" />
+  <img src="./assets/footer_sudo.png" />
   &nbsp;&nbsp;
   <img src="./assets/mario_star.jpg" width="26" />
   <img src="./assets/mario_coin.jpg" width="26" />
